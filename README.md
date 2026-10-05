@@ -1,4 +1,4 @@
-# Mega Man 7 — Maps and Logic v0.9.3
+# Mega Man 7 — Maps and Logic v0.9.5
 
 Archipelago PopTracker pack for Mega Man 7, based on the supplied MM7 APWorld 0.4.0. Includes 113 AP check definitions, stage maps, item tracking, shop support, and SNES stage auto-follow.
 
@@ -52,3 +52,7 @@ Include the pack version, PopTracker version, APWorld version that generated the
 
 This release checked ZIP integrity, JSON syntax, version consistency, map and image references, retained marker bounds, and preservation of AP check definitions and runtime scripts. It did not run PopTracker or an emulator. Earlier validation claims and user playtest results are recorded in `CHANGELOG.md` and the included validation/playtest files; they were not rerun for this documentation update.
 
+
+## Location names
+
+Map tooltips use descriptive location names instead of generic numeric Check headings. Archipelago location IDs remain unchanged; tracking mappings use the updated names. When updating, reload the pack and reconnect AP to restore checked locations.

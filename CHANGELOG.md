@@ -1,5 +1,14 @@
 # Changelog
 
+## 0.9.5
+
+- Replace numeric item and location references in access rules with descriptive constants.
+- Preserve gameplay rules, map positions, check names, and autotracking IDs from 0.9.4.
+
+## Version 0.9.4 — Location names and readability
+
+Aligned Shade Man’s first 1-Up marker with its visible pickup on the ledge before the spikes. Reformatted logic.lua with consistent indentation, expanded control flow, and explanatory comments. Renamed helpers and variables to describe their roles. Verified token-level equivalence under the identifier renaming; expressions, constants, control flow, and public functions are preserved. Replaced all 113 generic numeric location headings with their existing descriptive check names and updated all 113 AP tracking paths. AP IDs, item mappings, map coordinates, access rules, visibility, layout, and runtime behavior are unchanged. Verified unique names, exact tracking-path resolution, preserved check data, Lua syntax, JSON, and ZIP integrity. No live PopTracker/emulator test performed.
+
 ## Version 0.9.3 — 2026-10-05 direct full-stage views
 
 Each stage now opens its full map directly. Removed Whole stage, Locations, Check list, and close-up sub-tabs and their unused images/map definitions. Shop views, all AP check sections, full-map markers and notes, inventory, broadcast, logic, and autotracking remain. No live GUI/emulator test performed.

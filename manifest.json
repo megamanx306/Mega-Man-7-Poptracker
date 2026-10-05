@@ -2,7 +2,7 @@
   "name": "Mega Man 7 — Maps and Logic",
   "game_name": "Mega Man 7",
   "package_uid": "megamanx306.mm7",
-  "package_version": "0.9.3",
+  "package_version": "0.9.5",
   "platform": "snes",
   "min_poptracker_version": "0.33.0",
   "target_poptracker_version": "0.35.4",

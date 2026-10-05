@@ -1,6 +1,6 @@
 [
   {
-    "name": "Check 7799048",
+    "name": "Freeze Man Weapon Get",
     "visibility_rules": [
       "$seed_has|7799048"
     ],
@@ -23,7 +23,7 @@
     ]
   },
   {
-    "name": "Check 7799075",
+    "name": "Rush H Plate Location",
     "visibility_rules": [
       "$seed_has|7799075"
     ],
@@ -46,7 +46,7 @@
     ]
   },
   {
-    "name": "Check 7799077",
+    "name": "Exit Unit Location",
     "visibility_rules": [
       "$seed_has|7799077"
     ],
@@ -77,7 +77,7 @@
     ]
   },
   {
-    "name": "Check 7799082",
+    "name": "Rush Search Location",
     "visibility_rules": [
       "$seed_has|7799082"
     ],
@@ -100,7 +100,7 @@
     ]
   },
   {
-    "name": "Check 7799111",
+    "name": "Freeze Man - Large Weapon Energy",
     "visibility_rules": [
       "$mm7_pickups_visible|7799111"
     ],
@@ -123,7 +123,7 @@
     ]
   },
   {
-    "name": "Check 7799112",
+    "name": "Freeze Man - Large Health",
     "visibility_rules": [
       "$mm7_pickups_visible|7799112"
     ],
@@ -146,7 +146,7 @@
     ]
   },
   {
-    "name": "Check 7799113",
+    "name": "Freeze Man - E-Tank",
     "visibility_rules": [
       "$mm7_pickups_visible|7799113"
     ],
@@ -169,7 +169,7 @@
     ]
   },
   {
-    "name": "Check 7799049",
+    "name": "Cloud Man Weapon Get",
     "visibility_rules": [
       "$seed_has|7799049"
     ],
@@ -192,7 +192,7 @@
     ]
   },
   {
-    "name": "Check 7799060",
+    "name": "Proto Man's Clue 1 Location",
     "visibility_rules": [
       "$seed_has|7799060"
     ],
@@ -215,7 +215,7 @@
     ]
   },
   {
-    "name": "Check 7799073",
+    "name": "Rush U Plate Location",
     "visibility_rules": [
       "$seed_has|7799073"
     ],
@@ -238,7 +238,7 @@
     ]
   },
   {
-    "name": "Check 7799084",
+    "name": "Cloud Man's Mega Bolt Location",
     "visibility_rules": [
       "$seed_has|7799084"
     ],
@@ -261,7 +261,7 @@
     ]
   },
   {
-    "name": "Check 7799117",
+    "name": "Cloud Man - Large Health 1",
     "visibility_rules": [
       "$mm7_pickups_visible|7799117"
     ],
@@ -284,7 +284,7 @@
     ]
   },
   {
-    "name": "Check 7799118",
+    "name": "Cloud Man - 1-Up 1",
     "visibility_rules": [
       "$mm7_pickups_visible|7799118"
     ],
@@ -307,7 +307,7 @@
     ]
   },
   {
-    "name": "Check 7799119",
+    "name": "Cloud Man - 1-Up 2",
     "visibility_rules": [
       "$mm7_pickups_visible|7799119"
     ],
@@ -330,7 +330,7 @@
     ]
   },
   {
-    "name": "Check 7799120",
+    "name": "Cloud Man - Large Health 2",
     "visibility_rules": [
       "$mm7_pickups_visible|7799120"
     ],
@@ -353,7 +353,7 @@
     ]
   },
   {
-    "name": "Check 7799121",
+    "name": "Cloud Man - Large Bolt",
     "visibility_rules": [
       "$mm7_pickups_visible|7799121"
     ],
@@ -376,7 +376,7 @@
     ]
   },
   {
-    "name": "Check 7799050",
+    "name": "Junk Man Weapon Get",
     "visibility_rules": [
       "$seed_has|7799050"
     ],
@@ -399,7 +399,7 @@
     ]
   },
   {
-    "name": "Check 7799074",
+    "name": "Rush S Plate Location",
     "visibility_rules": [
       "$seed_has|7799074"
     ],
@@ -422,7 +422,7 @@
     ]
   },
   {
-    "name": "Check 7799083",
+    "name": "Rush Jet Location",
     "visibility_rules": [
       "$seed_has|7799083"
     ],
@@ -449,7 +449,7 @@
     ]
   },
   {
-    "name": "Check 7799088",
+    "name": "Junk Man's Mega Bolt Location",
     "visibility_rules": [
       "$seed_has|7799088"
     ],
@@ -476,7 +476,7 @@
     ]
   },
   {
-    "name": "Check 7799122",
+    "name": "Junk Man - Large Bolt",
     "visibility_rules": [
       "$mm7_pickups_visible|7799122"
     ],
@@ -499,7 +499,7 @@
     ]
   },
   {
-    "name": "Check 7799123",
+    "name": "Junk Man - Large Health 1",
     "visibility_rules": [
       "$mm7_pickups_visible|7799123"
     ],
@@ -526,7 +526,7 @@
     ]
   },
   {
-    "name": "Check 7799124",
+    "name": "Junk Man - 1-Up",
     "visibility_rules": [
       "$mm7_pickups_visible|7799124"
     ],
@@ -549,7 +549,7 @@
     ]
   },
   {
-    "name": "Check 7799125",
+    "name": "Junk Man - Large Weapon Energy",
     "visibility_rules": [
       "$mm7_pickups_visible|7799125"
     ],
@@ -572,7 +572,7 @@
     ]
   },
   {
-    "name": "Check 7799051",
+    "name": "Turbo Man Weapon Get",
     "visibility_rules": [
       "$seed_has|7799051"
     ],
@@ -595,7 +595,7 @@
     ]
   },
   {
-    "name": "Check 7799061",
+    "name": "Proto Man's Clue 2 Location",
     "visibility_rules": [
       "$seed_has|7799061"
     ],
@@ -618,7 +618,7 @@
     ]
   },
   {
-    "name": "Check 7799078",
+    "name": "Hyper Rocket Buster Location",
     "visibility_rules": [
       "$seed_has|7799078"
     ],
@@ -641,7 +641,7 @@
     ]
   },
   {
-    "name": "Check 7799087",
+    "name": "Turbo Man's Mega Bolt Location",
     "visibility_rules": [
       "$seed_has|7799087"
     ],
@@ -664,7 +664,7 @@
     ]
   },
   {
-    "name": "Check 7799126",
+    "name": "Turbo Man - Large Health 1",
     "visibility_rules": [
       "$mm7_pickups_visible|7799126"
     ],
@@ -687,7 +687,7 @@
     ]
   },
   {
-    "name": "Check 7799127",
+    "name": "Turbo Man - 1-Up",
     "visibility_rules": [
       "$mm7_pickups_visible|7799127"
     ],
@@ -710,7 +710,7 @@
     ]
   },
   {
-    "name": "Check 7799128",
+    "name": "Turbo Man - Large Health 2",
     "visibility_rules": [
       "$mm7_pickups_visible|7799128"
     ],
@@ -733,7 +733,7 @@
     ]
   },
   {
-    "name": "Check 7799129",
+    "name": "Turbo Man - E-Tank",
     "visibility_rules": [
       "$mm7_pickups_visible|7799129"
     ],
@@ -756,7 +756,7 @@
     ]
   },
   {
-    "name": "Check 7799052",
+    "name": "Slash Man Weapon Get",
     "visibility_rules": [
       "$seed_has|7799052"
     ],
@@ -779,7 +779,7 @@
     ]
   },
   {
-    "name": "Check 7799080",
+    "name": "Beat Location",
     "visibility_rules": [
       "$seed_has|7799080"
     ],
@@ -806,7 +806,7 @@
     ]
   },
   {
-    "name": "Check 7799114",
+    "name": "Slash Man - Large Health 1",
     "visibility_rules": [
       "$mm7_pickups_visible|7799114"
     ],
@@ -829,7 +829,7 @@
     ]
   },
   {
-    "name": "Check 7799115",
+    "name": "Slash Man - E-Tank",
     "visibility_rules": [
       "$mm7_pickups_visible|7799115"
     ],
@@ -852,7 +852,7 @@
     ]
   },
   {
-    "name": "Check 7799116",
+    "name": "Slash Man - Large Health 2",
     "visibility_rules": [
       "$mm7_pickups_visible|7799116"
     ],
@@ -875,7 +875,7 @@
     ]
   },
   {
-    "name": "Check 7799053",
+    "name": "Shade Man Weapon Get",
     "visibility_rules": [
       "$seed_has|7799053"
     ],
@@ -898,7 +898,7 @@
     ]
   },
   {
-    "name": "Check 7799062",
+    "name": "Proto Shield Location",
     "visibility_rules": [
       "$seed_has|7799062"
     ],
@@ -921,7 +921,7 @@
     ]
   },
   {
-    "name": "Check 7799079",
+    "name": "Energy Balancer Location",
     "visibility_rules": [
       "$seed_has|7799079"
     ],
@@ -944,7 +944,7 @@
     ]
   },
   {
-    "name": "Check 7799086",
+    "name": "Shade Man's Mega Bolt Location",
     "visibility_rules": [
       "$seed_has|7799086"
     ],
@@ -971,7 +971,7 @@
     ]
   },
   {
-    "name": "Check 7799136",
+    "name": "Shade Man - Large Bolt",
     "visibility_rules": [
       "$mm7_pickups_visible|7799136"
     ],
@@ -994,7 +994,7 @@
     ]
   },
   {
-    "name": "Check 7799137",
+    "name": "Shade Man - Large Health 1",
     "visibility_rules": [
       "$mm7_pickups_visible|7799137"
     ],
@@ -1021,14 +1021,14 @@
     ]
   },
   {
-    "name": "Check 7799138",
+    "name": "Shade Man - 1-Up 1",
     "visibility_rules": [
       "$mm7_pickups_visible|7799138"
     ],
     "map_locations": [
       {
         "map": "full6",
-        "x": 2865,
+        "x": 2800,
         "y": 1975,
         "size": 58
       }
@@ -1042,13 +1042,13 @@
         ]
       },
       {
-        "name": "Playtest: Pumpkin core route 1-Up — room reference; exact pickup pixel unverified",
+        "name": "Playtest: Pumpkin core route 1-Up — marker aligned with the pickup on the ledge before the spikes, per 2026-10-05 screenshot.",
         "item_count": 0
       }
     ]
   },
   {
-    "name": "Check 7799139",
+    "name": "Shade Man - Large Health 2",
     "visibility_rules": [
       "$mm7_pickups_visible|7799139"
     ],
@@ -1075,7 +1075,7 @@
     ]
   },
   {
-    "name": "Check 7799140",
+    "name": "Shade Man - 1-Up 2",
     "visibility_rules": [
       "$mm7_pickups_visible|7799140"
     ],
@@ -1102,7 +1102,7 @@
     ]
   },
   {
-    "name": "Check 7799054",
+    "name": "Burst Man Weapon Get",
     "visibility_rules": [
       "$seed_has|7799054"
     ],
@@ -1125,7 +1125,7 @@
     ]
   },
   {
-    "name": "Check 7799072",
+    "name": "Rush R Plate Location",
     "visibility_rules": [
       "$seed_has|7799072"
     ],
@@ -1148,7 +1148,7 @@
     ]
   },
   {
-    "name": "Check 7799130",
+    "name": "Burst Man - 1-Up 1",
     "visibility_rules": [
       "$mm7_pickups_visible|7799130"
     ],
@@ -1171,7 +1171,7 @@
     ]
   },
   {
-    "name": "Check 7799131",
+    "name": "Burst Man - E-Tank",
     "visibility_rules": [
       "$mm7_pickups_visible|7799131"
     ],
@@ -1194,7 +1194,7 @@
     ]
   },
   {
-    "name": "Check 7799132",
+    "name": "Burst Man - 1-Up 2",
     "visibility_rules": [
       "$mm7_pickups_visible|7799132"
     ],
@@ -1217,7 +1217,7 @@
     ]
   },
   {
-    "name": "Check 7799133",
+    "name": "Burst Man - Large Health 1",
     "visibility_rules": [
       "$mm7_pickups_visible|7799133"
     ],
@@ -1240,7 +1240,7 @@
     ]
   },
   {
-    "name": "Check 7799134",
+    "name": "Burst Man - Large Weapon Energy",
     "visibility_rules": [
       "$mm7_pickups_visible|7799134"
     ],
@@ -1263,7 +1263,7 @@
     ]
   },
   {
-    "name": "Check 7799135",
+    "name": "Burst Man - Large Health 2",
     "visibility_rules": [
       "$mm7_pickups_visible|7799135"
     ],
@@ -1286,7 +1286,7 @@
     ]
   },
   {
-    "name": "Check 7799055",
+    "name": "Spring Man Weapon Get",
     "visibility_rules": [
       "$seed_has|7799055"
     ],
@@ -1309,7 +1309,7 @@
     ]
   },
   {
-    "name": "Check 7799076",
+    "name": "Hyper Bolt Location",
     "visibility_rules": [
       "$seed_has|7799076"
     ],
@@ -1336,7 +1336,7 @@
     ]
   },
   {
-    "name": "Check 7799085",
+    "name": "Spring Man's Mega Bolt Location",
     "visibility_rules": [
       "$seed_has|7799085"
     ],
@@ -1359,7 +1359,7 @@
     ]
   },
   {
-    "name": "Check 7799089",
+    "name": "Mega Health Capsule Location",
     "visibility_rules": [
       "$seed_has|7799089"
     ],
@@ -1382,7 +1382,7 @@
     ]
   },
   {
-    "name": "Check 7799104",
+    "name": "Spring Man - Large Bolt",
     "visibility_rules": [
       "$mm7_pickups_visible|7799104"
     ],
@@ -1405,7 +1405,7 @@
     ]
   },
   {
-    "name": "Check 7799105",
+    "name": "Spring Man - Large Health 1",
     "visibility_rules": [
       "$mm7_pickups_visible|7799105"
     ],
@@ -1428,7 +1428,7 @@
     ]
   },
   {
-    "name": "Check 7799106",
+    "name": "Spring Man - 1-Up 1",
     "visibility_rules": [
       "$mm7_pickups_visible|7799106"
     ],
@@ -1451,7 +1451,7 @@
     ]
   },
   {
-    "name": "Check 7799107",
+    "name": "Spring Man - Large Weapon Energy",
     "visibility_rules": [
       "$mm7_pickups_visible|7799107"
     ],
@@ -1478,7 +1478,7 @@
     ]
   },
   {
-    "name": "Check 7799108",
+    "name": "Spring Man - 1-Up 2",
     "visibility_rules": [
       "$mm7_pickups_visible|7799108"
     ],
@@ -1501,7 +1501,7 @@
     ]
   },
   {
-    "name": "Check 7799109",
+    "name": "Spring Man - E-Tank",
     "visibility_rules": [
       "$mm7_pickups_visible|7799109"
     ],
@@ -1524,7 +1524,7 @@
     ]
   },
   {
-    "name": "Check 7799110",
+    "name": "Spring Man - Large Health 2",
     "visibility_rules": [
       "$mm7_pickups_visible|7799110"
     ],
@@ -1547,7 +1547,7 @@
     ]
   },
   {
-    "name": "Check 7799056",
+    "name": "Mash Defeated",
     "visibility_rules": [
       "$seed_has|7799056"
     ],
@@ -1570,7 +1570,7 @@
     ]
   },
   {
-    "name": "Check 7799090",
+    "name": "Guts Man G Reward",
     "visibility_rules": [
       "$seed_has|7799090"
     ],
@@ -1597,7 +1597,7 @@
     ]
   },
   {
-    "name": "Check 7799141",
+    "name": "Wily 1 - Large Bolt",
     "visibility_rules": [
       "$mm7_pickups_visible|7799141"
     ],
@@ -1620,7 +1620,7 @@
     ]
   },
   {
-    "name": "Check 7799142",
+    "name": "Wily 1 - Large Weapon Energy",
     "visibility_rules": [
       "$mm7_pickups_visible|7799142"
     ],
@@ -1643,7 +1643,7 @@
     ]
   },
   {
-    "name": "Check 7799143",
+    "name": "Wily 1 - 1-Up",
     "visibility_rules": [
       "$mm7_pickups_visible|7799143"
     ],
@@ -1666,7 +1666,7 @@
     ]
   },
   {
-    "name": "Check 7799144",
+    "name": "Wily 1 - Large Health 1",
     "visibility_rules": [
       "$mm7_pickups_visible|7799144"
     ],
@@ -1689,7 +1689,7 @@
     ]
   },
   {
-    "name": "Check 7799145",
+    "name": "Wily 1 - Large Health 2",
     "visibility_rules": [
       "$mm7_pickups_visible|7799145"
     ],
@@ -1712,7 +1712,7 @@
     ]
   },
   {
-    "name": "Check 7799146",
+    "name": "Wily 1 - E-Tank",
     "visibility_rules": [
       "$mm7_pickups_visible|7799146"
     ],
@@ -1735,7 +1735,7 @@
     ]
   },
   {
-    "name": "Check 7799091",
+    "name": "Gamerizer Reward",
     "visibility_rules": [
       "$seed_has|7799091"
     ],
@@ -1758,7 +1758,7 @@
     ]
   },
   {
-    "name": "Check 7799147",
+    "name": "Wily 2 - Large Bolt",
     "visibility_rules": [
       "$mm7_pickups_visible|7799147"
     ],
@@ -1781,7 +1781,7 @@
     ]
   },
   {
-    "name": "Check 7799148",
+    "name": "Wily 2 - Large Health 1",
     "visibility_rules": [
       "$mm7_pickups_visible|7799148"
     ],
@@ -1804,7 +1804,7 @@
     ]
   },
   {
-    "name": "Check 7799149",
+    "name": "Wily 2 - 1-Up",
     "visibility_rules": [
       "$mm7_pickups_visible|7799149"
     ],
@@ -1827,7 +1827,7 @@
     ]
   },
   {
-    "name": "Check 7799150",
+    "name": "Wily 2 - Large Health 2",
     "visibility_rules": [
       "$mm7_pickups_visible|7799150"
     ],
@@ -1850,7 +1850,7 @@
     ]
   },
   {
-    "name": "Check 7799151",
+    "name": "Wily 2 - Small Health 1",
     "visibility_rules": [
       "$mm7_pickups_visible|7799151"
     ],
@@ -1877,7 +1877,7 @@
     ]
   },
   {
-    "name": "Check 7799152",
+    "name": "Wily 2 - Small Health 2",
     "visibility_rules": [
       "$mm7_pickups_visible|7799152"
     ],
@@ -1904,7 +1904,7 @@
     ]
   },
   {
-    "name": "Check 7799153",
+    "name": "Wily 2 - Small Health 3",
     "visibility_rules": [
       "$mm7_pickups_visible|7799153"
     ],
@@ -1931,7 +1931,7 @@
     ]
   },
   {
-    "name": "Check 7799154",
+    "name": "Wily 2 - Large Health 3",
     "visibility_rules": [
       "$mm7_pickups_visible|7799154"
     ],
@@ -1954,7 +1954,7 @@
     ]
   },
   {
-    "name": "Check 7799155",
+    "name": "Wily 2 - Large Weapon Energy",
     "visibility_rules": [
       "$mm7_pickups_visible|7799155"
     ],
@@ -1977,7 +1977,7 @@
     ]
   },
   {
-    "name": "Check 7799156",
+    "name": "Wily 2 - Large Health 4",
     "visibility_rules": [
       "$mm7_pickups_visible|7799156"
     ],
@@ -2000,7 +2000,7 @@
     ]
   },
   {
-    "name": "Check 7799092",
+    "name": "HannyaNED^2 Reward",
     "visibility_rules": [
       "$seed_has|7799092"
     ],
@@ -2027,7 +2027,7 @@
     ]
   },
   {
-    "name": "Check 7799157",
+    "name": "Wily 3 - Large Bolt 1",
     "visibility_rules": [
       "$mm7_pickups_visible|7799157"
     ],
@@ -2050,7 +2050,7 @@
     ]
   },
   {
-    "name": "Check 7799158",
+    "name": "Wily 3 - Large Bolt 2",
     "visibility_rules": [
       "$mm7_pickups_visible|7799158"
     ],
@@ -2073,7 +2073,7 @@
     ]
   },
   {
-    "name": "Check 7799159",
+    "name": "Wily 3 - Large Health 1",
     "visibility_rules": [
       "$mm7_pickups_visible|7799159"
     ],
@@ -2096,7 +2096,7 @@
     ]
   },
   {
-    "name": "Check 7799160",
+    "name": "Wily 3 - 1-Up 1",
     "visibility_rules": [
       "$mm7_pickups_visible|7799160"
     ],
@@ -2119,7 +2119,7 @@
     ]
   },
   {
-    "name": "Check 7799161",
+    "name": "Wily 3 - 1-Up 2",
     "visibility_rules": [
       "$mm7_pickups_visible|7799161"
     ],
@@ -2142,7 +2142,7 @@
     ]
   },
   {
-    "name": "Check 7799162",
+    "name": "Wily 3 - E-Tank 1",
     "visibility_rules": [
       "$mm7_pickups_visible|7799162"
     ],
@@ -2165,7 +2165,7 @@
     ]
   },
   {
-    "name": "Check 7799163",
+    "name": "Wily 3 - S-Tank",
     "visibility_rules": [
       "$mm7_pickups_visible|7799163"
     ],
@@ -2188,7 +2188,7 @@
     ]
   },
   {
-    "name": "Check 7799164",
+    "name": "Wily 3 - W-Tank",
     "visibility_rules": [
       "$mm7_pickups_visible|7799164"
     ],
@@ -2211,7 +2211,7 @@
     ]
   },
   {
-    "name": "Check 7799165",
+    "name": "Wily 3 - 1-Up 3",
     "visibility_rules": [
       "$mm7_pickups_visible|7799165"
     ],
@@ -2234,7 +2234,7 @@
     ]
   },
   {
-    "name": "Check 7799166",
+    "name": "Wily 3 - Large Health 2",
     "visibility_rules": [
       "$mm7_pickups_visible|7799166"
     ],
@@ -2257,7 +2257,7 @@
     ]
   },
   {
-    "name": "Check 7799167",
+    "name": "Wily 3 - E-Tank 2",
     "visibility_rules": [
       "$mm7_pickups_visible|7799167"
     ],
@@ -2280,7 +2280,7 @@
     ]
   },
   {
-    "name": "Check 7799081",
+    "name": "Intro Stage Cleared",
     "visibility_rules": [
       "$seed_has|7799081"
     ],
@@ -2303,7 +2303,7 @@
     ]
   },
   {
-    "name": "Check 7799093",
+    "name": "Boss Rush - Freeze Man",
     "visibility_rules": [
       "$mm7_rematch_visible|7799093"
     ],
@@ -2330,7 +2330,7 @@
     ]
   },
   {
-    "name": "Check 7799094",
+    "name": "Boss Rush - Slash Man",
     "visibility_rules": [
       "$mm7_rematch_visible|7799094"
     ],
@@ -2357,7 +2357,7 @@
     ]
   },
   {
-    "name": "Check 7799095",
+    "name": "Boss Rush - Junk Man",
     "visibility_rules": [
       "$mm7_rematch_visible|7799095"
     ],
@@ -2384,7 +2384,7 @@
     ]
   },
   {
-    "name": "Check 7799096",
+    "name": "Boss Rush - Cloud Man",
     "visibility_rules": [
       "$mm7_rematch_visible|7799096"
     ],
@@ -2411,7 +2411,7 @@
     ]
   },
   {
-    "name": "Check 7799097",
+    "name": "Boss Rush - Turbo Man",
     "visibility_rules": [
       "$mm7_rematch_visible|7799097"
     ],
@@ -2438,7 +2438,7 @@
     ]
   },
   {
-    "name": "Check 7799098",
+    "name": "Boss Rush - Spring Man",
     "visibility_rules": [
       "$mm7_rematch_visible|7799098"
     ],
@@ -2465,7 +2465,7 @@
     ]
   },
   {
-    "name": "Check 7799099",
+    "name": "Boss Rush - Shade Man",
     "visibility_rules": [
       "$mm7_rematch_visible|7799099"
     ],
@@ -2492,7 +2492,7 @@
     ]
   },
   {
-    "name": "Check 7799100",
+    "name": "Boss Rush - Burst Man",
     "visibility_rules": [
       "$mm7_rematch_visible|7799100"
     ],
@@ -2519,7 +2519,7 @@
     ]
   },
   {
-    "name": "Check 7799168",
+    "name": "Wily 4 - Large Bolt 1",
     "visibility_rules": [
       "$mm7_pickups_visible|7799168"
     ],
@@ -2546,7 +2546,7 @@
     ]
   },
   {
-    "name": "Check 7799169",
+    "name": "Wily 4 - Large Bolt 2",
     "visibility_rules": [
       "$mm7_pickups_visible|7799169"
     ],
@@ -2573,7 +2573,7 @@
     ]
   },
   {
-    "name": "Check 7799170",
+    "name": "Wily 4 - Large Bolt 3",
     "visibility_rules": [
       "$mm7_pickups_visible|7799170"
     ],
@@ -2600,7 +2600,7 @@
     ]
   },
   {
-    "name": "Check 7799171",
+    "name": "Wily 4 - W-Tank",
     "visibility_rules": [
       "$mm7_pickups_visible|7799171"
     ],
@@ -2627,7 +2627,7 @@
     ]
   },
   {
-    "name": "Check 7799172",
+    "name": "Wily 4 - 1-Up",
     "visibility_rules": [
       "$mm7_pickups_visible|7799172"
     ],
@@ -2650,7 +2650,7 @@
     ]
   },
   {
-    "name": "Check 7799173",
+    "name": "Wily 4 - Large Bolt 4",
     "visibility_rules": [
       "$mm7_pickups_visible|7799173"
     ],
@@ -2677,7 +2677,7 @@
     ]
   },
   {
-    "name": "Check 7799174",
+    "name": "Wily 4 - Large Bolt 5",
     "visibility_rules": [
       "$mm7_pickups_visible|7799174"
     ],
@@ -2700,7 +2700,7 @@
     ]
   },
   {
-    "name": "Check 7799175",
+    "name": "Wily 4 - Large Bolt 6",
     "visibility_rules": [
       "$mm7_pickups_visible|7799175"
     ],
