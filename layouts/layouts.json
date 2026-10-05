@@ -1,0 +1,430 @@
+{
+  "tracker_default": {
+    "type": "container",
+    "background": "#191925",
+    "content": {
+      "type": "dock",
+      "content": [
+        {
+          "type": "dock",
+          "dock": "left",
+          "v_alignment": "stretch",
+          "content": [
+            {
+              "type": "group",
+              "header": "Inventory",
+              "dock": "top",
+              "content": {
+                "type": "tabbed",
+                "tabs": [
+                  {
+                    "title": "Items",
+                    "content": {
+                      "type": "itemgrid",
+                      "item_size": "64,60",
+                      "item_margin": "2,3",
+                      "h_alignment": "left",
+                      "rows": [
+                        [
+                          "stageview_7798832",
+                          "stageview_7798833",
+                          "stageview_7798834",
+                          "stageview_7798835"
+                        ],
+                        [
+                          "stageview_7798836",
+                          "stageview_7798837",
+                          "stageview_7798838",
+                          "stageview_7798839"
+                        ],
+                        [
+                          "i7798784",
+                          "i7798785",
+                          "i7798786",
+                          "i7798787"
+                        ],
+                        [
+                          "i7798788",
+                          "i7798789",
+                          "i7798790",
+                          "i7798791"
+                        ],
+                        [
+                          "i7798829",
+                          "i7798830",
+                          "i7798831",
+                          "i7798840"
+                        ],
+                        [
+                          "wily_final"
+                        ],
+                        [
+                          "i7798795",
+                          "i7798796",
+                          "i7798797",
+                          "i7798798"
+                        ],
+                        [
+                          "i7798792",
+                          "i7798793",
+                          "i7798794",
+                          "i7798802"
+                        ],
+                        [
+                          "i7798800",
+                          "i7798801",
+                          "i7798803",
+                          "i7798804"
+                        ],
+                        [
+                          "i7798805",
+                          "i7798806",
+                          "i7798799"
+                        ]
+                      ]
+                    }
+                  },
+                  {
+                    "title": "Extras",
+                    "content": {
+                      "type": "itemgrid",
+                      "item_size": "64,60",
+                      "item_margin": "2,3",
+                      "h_alignment": "left",
+                      "rows": [
+                        [
+                          "i7798822",
+                          "i7798825",
+                          "i7798826"
+                        ],
+                        [
+                          "i7798827",
+                          "bolts",
+                          "follow_stage"
+                        ]
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "type": "layout",
+          "key": "stage_maps"
+        }
+      ]
+    }
+  },
+  "tracker_broadcast": {
+    "type": "itemgrid",
+    "item_size": "72,64",
+    "rows": [
+      [
+        "stageview_7798832",
+        "stageview_7798833",
+        "stageview_7798834",
+        "stageview_7798835"
+      ],
+      [
+        "stageview_7798836",
+        "stageview_7798837",
+        "stageview_7798838",
+        "stageview_7798839"
+      ],
+      [
+        "i7798784",
+        "i7798785",
+        "i7798786",
+        "i7798787"
+      ],
+      [
+        "i7798788",
+        "i7798789",
+        "i7798790",
+        "i7798791"
+      ],
+      [
+        "i7798829",
+        "i7798830",
+        "i7798831",
+        "i7798840"
+      ],
+      [
+        "wily_final"
+      ],
+      [
+        "i7798795",
+        "i7798796",
+        "i7798797",
+        "i7798798"
+      ],
+      [
+        "i7798792",
+        "i7798793",
+        "i7798794",
+        "i7798802"
+      ],
+      [
+        "i7798800",
+        "i7798801",
+        "i7798803",
+        "i7798804"
+      ],
+      [
+        "i7798805",
+        "i7798806",
+        "i7798799"
+      ]
+    ]
+  },
+  "stage_maps": {
+    "type": "tabbed",
+    "tabs": [
+      {
+        "title": "Introduction Stage",
+        "content": {
+          "type": "map",
+          "maps": [
+            "full0"
+          ]
+        }
+      },
+      {
+        "title": "Robot Masters",
+        "content": {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "Freeze Man",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "full3"
+                ]
+              }
+            },
+            {
+              "title": "Cloud Man",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "full2"
+                ]
+              }
+            },
+            {
+              "title": "Junk Man",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "full4"
+                ]
+              }
+            },
+            {
+              "title": "Turbo Man",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "full9"
+                ]
+              }
+            },
+            {
+              "title": "Slash Man",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "full7"
+                ]
+              }
+            },
+            {
+              "title": "Shade Man",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "full6"
+                ]
+              }
+            },
+            {
+              "title": "Burst Man",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "full1"
+                ]
+              }
+            },
+            {
+              "title": "Spring Man",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "full8"
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "title": "Robot Museum",
+        "content": {
+          "type": "map",
+          "maps": [
+            "full5"
+          ]
+        }
+      },
+      {
+        "title": "Wily's Castle",
+        "content": {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "Wily's Castle Level1",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "full10"
+                ]
+              }
+            },
+            {
+              "title": "Wily's Castle Level2",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "full11"
+                ]
+              }
+            },
+            {
+              "title": "Wily's Castle Level3",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "full12"
+                ]
+              }
+            },
+            {
+              "title": "Wily's Castle Level4",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "full13"
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "title": "Auto's Shop",
+        "content": {
+          "type": "dock",
+          "content": [
+            {
+              "type": "text",
+              "dock": "top",
+              "text": "Auto's Shop — bright offers are affordable. Number = current price. HB = Hyper Bolt required. Purchases share their existing stage checks."
+            },
+            {
+              "type": "itemgrid",
+              "dock": "top",
+              "item_size": "80,72",
+              "rows": [
+                [
+                  "bolts",
+                  "i7798800",
+                  "follow_stage"
+                ]
+              ]
+            },
+            {
+              "type": "itemgrid",
+              "dock": "top",
+              "item_size": "80,72",
+              "rows": [
+                [
+                  "shop_life",
+                  "shop_etank",
+                  "shop_wtank",
+                  "shop_beat",
+                  "shop_exit"
+                ],
+                [
+                  "shop_stank",
+                  "shop_search",
+                  "shop_jet",
+                  "shop_balancer",
+                  "shop_buster"
+                ]
+              ]
+            },
+            {
+              "type": "text",
+              "dock": "top",
+              "text": "Costs shown after Hyper Bolt already include the discount. Shop affordability uses current bolts; AP reachability assumes bolt farming. No extra AP locations are created."
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "settings_popup": {
+    "type": "dock",
+    "content": [
+      {
+        "type": "text",
+        "dock": "top",
+        "text": "Match these to your YAML. Codes / Pickupsanity / Split sync from AP. Final type: 0 Wily, 1 bosses, 2 weapons, 3 Proto."
+      },
+      {
+        "type": "itemgrid",
+        "dock": "top",
+        "item_size": "80,72",
+        "rows": [
+          [
+            "opt_robot_master_access_codes",
+            "opt_pickupsanity",
+            "opt_boss_rush_checks",
+            "opt_logic_boss_weakness",
+            "opt_exit_unit_in_uncleared_stages",
+            "opt_paid_exit_unit",
+            "opt_paid_exit_unit_in_logic"
+          ],
+          [
+            "opt_skip_robot_museum",
+            "opt_robot_museum_robot_masters",
+            "opt_wily_4_behavior",
+            "opt_wily_4_requirement_type",
+            "opt_wily_4_wily_stages",
+            "opt_wily_4_robot_masters",
+            "opt_wily_4_weapons"
+          ]
+        ]
+      },
+      {
+        "type": "text",
+        "dock": "top",
+        "text": "AP seed logic ON uses world requirements; OFF uses playtested routes. Yellow means an optional difficult route or an early fortress visit."
+      },
+      {
+        "type": "itemgrid",
+        "dock": "top",
+        "item_size": "80,72",
+        "rows": [
+          [
+            "opt_strict_seed_logic"
+          ]
+        ]
+      }
+    ]
+  }
+}

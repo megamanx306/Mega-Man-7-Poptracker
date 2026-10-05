@@ -1,0 +1,71 @@
+Missing Large Weapon Energy Check in Spring Man
+Missing Hyper Bolt Check in Spring Man
+Missing Mega Ball Check in Intro Stage of Mega Man 8
+Bolt 1 and 3 locations need to be swapped in the Intro Stage of Mega Man 8
+Missing checks when bosses are defeated in Mega Man 8.
+Boss Icons in Mega Man 8 are wrong. Shows Grenade Man as Frost Man, Frost Man as Clown Man, Clown Man as Tengu Man, Tengu Man as Grenade Man, Search Man as Sword Man, Sword Man as Astro Man, and Astro Man as Search Man. Aqua Man is correct.
+Frost Man - checks show up as illogical if I do not have Astro Crush. Can get most of the checks.
+Frost Man - Bolt 3 - Need Mega Ball or Tornado Hold
+Frost Man - Bolt 4 - Need Mega Ball, Tornado Hold, or a well-timed slide-jump to release the ice block on the far right.
+Frost Man - Large Life Energy 3 - Need Mega Ball, Tornado Hold, or slide-jump.
+Frost Man - Bolt 5 & 6 - Need Astro Crush
+Frost Man - Bolt 6 - Section 10, needing new check box location. It's in the 2nd ice block. Current one is at the 3rd block. (5480105)
+Frost Man - Life Energy after Bolt 6 is missing entirely in check. Relay @Shinnu. 
+Frost Man - Weapon Energy missing immediately after Large Life Energy 4. Relay @Shinnu
+11 Refill checks at the end of Frost Man confirmed. 
+Junk Man - Mega Bolt location is wrong. It's on the path needing Freeze Cracker. 
+Junk Man - missing Life Energy refill check while climbing the tall ladder (Section 2) - needing Thunder Bolt.
+Junk Man - missing Rush Jet check in Section 2  - needing to move the pillar with Thunder Bolt needed. 
+Shade Man - Mega Bolt check is the spot before the door to Proto Man, not down the ladder. (Section 4)
+Shade Man - Life Energy refill check is missing after the Pumpkin miniboss (When the shell is destroyed, Section 4)
+Shade Man - 1-up check is missing. Marked as Shade Man - 1-Up 2 (Section 2 - Needing Super Adapter Suit or Rush Jet)
+Shade Man - Life Energy refill check is missing after the Pumpkin miniboss (When the core is destroyed, Section 8 - need Rush Coil, Jet, or Super Adapter
+Shade Man - 1-up check is missing after the Pumpkin miniboss (When the core is destroyed, Section 8
+Mega Man 7 - Wily 2 - change logic to plausible (yellow instead of red) if visiting early. After the Bass fight and the 3 life energy checks, if you don't have Freeze Cracker, Rush Coil/Jet, or Super Adapter, you cannot complete the stage, which is illogical.
+Mega Man 7 - Wily 2 - missing the 3 small life energy checks after the Bass fight, Section 2
+Mega Man 7 - Wily 3 - change logic to plausible (yellow instead of red) if visiting early. After Large Health 1 check, need Rush Coil, Jet, or Super Adapter; otherwise, cannot complete.
+Mega Man 7 - Wily 4 (Boss Rush) If boss rush is enabled, add their checks for the 8 refights. 
+Mega Man 7 - Wily 3 - Upper Path. Need Rush Coil AND Jet to clear the 3 checks. Illogical otherwise
+Mega Man 7 - Wily 3 - Reposition the final check at the boss instead of the white space.
+Clown Man - Bolt 1 - Needing Rush Bike. (5480110)
+Clown Man - Miniboss check needs to be added. 
+Clown Man - Bolt 2 - make logical by default once granted access code stage. 
+Clown Man - Bolt 3 - need Mega Ball & Flame Sword to open the barrel. 
+Clown Man - Bolt 4 - Mega Ball needed.
+Clown Man - Bolt 5 - Mega Ball jump or Tornado Hold needed. Put a check box at Section 6 - the 5 question mark blocks. It's the 4th block (from left to right) 
+Grenade Man - Bolt 1 - Need Mega Ball jump or Tornado Hold
+Grenade Man - Bolt 2 - Mark as logical
+Grenade Man - Add check at the miniboss, beginning of Section 4
+Grenade Man - Bolt 3 - Flame Sword confirmed needed.
+Grenade Man - Large Life Energy 1 - nark as logical. 
+Grenade Man - Bolts 4 and 5 - mark as logical
+Grenade Man - Large Life Energy 2 - mark as logical
+Sword Man - Illogical to complete without Ice Wave & Tornado Hold
+Sword Man - Bolt 3 - Need Flash Bomb
+Sword Man - Large Life Energy 2 is in the Thunder Claw section (Check 5480322)
+Sword Man - Bolt 2 - Thunder Claw section (Check 5480119)
+Sword Man - Bolt 1 - Flash Bomb section (Check 5480120)
+Sword Man - add check at Miniboss
+Sword Man - Large Life Energy 3 is Check 5480321
+Search Man - Bolt 2 is Check 5480136
+Search Man - Bolt 3 - Need Tornado Hold & Thunder Claw (Check 5480135)
+Aqua Man - add miniboss check.
+Aqua Man - Large Weapon Energy 1 and Bolt 1 - Astro Crush needed.
+Aqua Man - Large Life Energy 1 and Bolt 2 - Tornado Hold needed.
+Aqua Man - Large Weapon & Life Energy 2, and Bolt 3 are in logic.
+Wily 1 - 1-up check, logic with either Mega Ball, Tornado Hold, or Thunder Claw.
+(5480337)
+Add check for clearing Wily Stage 1 - MM8
+Freeze Man - Reposition the Exit Unit check at the end of the stage. (7799077 - Section 6)
+Burst Man - 1-up 1 - Can get within logic without Coil, Jet, or Super Adapter. (7799130)
+Slash Man - Missing check for Freeing Beat. Noted as Beat Location. Needing Scorch Wheel & Either Rush Coil, Jet, or Super Adapter. Section 2 before the boss room by climbing the tree after burning it with Scorch Wheel.
+MM7 - Wily 1 - Large Weapon Energy - can get within logic. (7799142)
+MM7 - Wily 1 - 1-Up - Rush Jet needed. (7799143)
+MM7 - Wily 1 - Reposition the check box at Guts Man G, it's in the white space instead of the room.
+MM7 - Wily 3 - E-Tank 1, S-Tank & W-Tank checks - needing Rush Jet or Super Adapter. (Checks 7799162, 7799163, and 7799164)
+MM8 - Wily 2 - Add check for clearing / defeating the boss.
+MM8 - Wily 3 - Add check for clearing / defeating Bass. 
+MM8 - Wily 3 - Large Life Energy 2 is logical. (5488340)
+MM8 - Wily 3 - 1-Up is logical (5488341)
+MM8 - Wily 3 - Add check for clearing the stage.
+MM8 - Wily 4 - Add 8 checks for each of the 8 rematch fights.

@@ -1,0 +1,13 @@
+{
+  "version": "0.9.0",
+  "passed": [
+    "Four final requirements",
+    "Proto completed check",
+    "Wily 5 icon state",
+    "Guarded HiROM settings",
+    "Lua syntax",
+    "JSON",
+    "Marker bounds"
+  ],
+  "live_emulator_tested": false
+}

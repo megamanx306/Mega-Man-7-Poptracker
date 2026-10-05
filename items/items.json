@@ -1,0 +1,754 @@
+[
+  {
+    "name": "Freeze Cracker",
+    "type": "toggle",
+    "codes": "i7798784",
+    "img": "images/i7798784.png",
+    "overlay_font_size": 14,
+    "initial_active_state": false
+  },
+  {
+    "name": "Danger Wrap",
+    "type": "toggle",
+    "codes": "i7798785",
+    "img": "images/i7798785.png",
+    "overlay_font_size": 14,
+    "initial_active_state": false
+  },
+  {
+    "name": "Thunder Bolt",
+    "type": "toggle",
+    "codes": "i7798786",
+    "img": "images/i7798786.png",
+    "overlay_font_size": 14,
+    "initial_active_state": false
+  },
+  {
+    "name": "Junk Shield",
+    "type": "toggle",
+    "codes": "i7798787",
+    "img": "images/i7798787.png",
+    "overlay_font_size": 14,
+    "initial_active_state": false
+  },
+  {
+    "name": "Slash Claw",
+    "type": "toggle",
+    "codes": "i7798788",
+    "img": "images/i7798788.png",
+    "overlay_font_size": 14,
+    "initial_active_state": false
+  },
+  {
+    "name": "Wild Coil",
+    "type": "toggle",
+    "codes": "i7798789",
+    "img": "images/i7798789.png",
+    "overlay_font_size": 14,
+    "initial_active_state": false
+  },
+  {
+    "name": "Noise Crush",
+    "type": "toggle",
+    "codes": "i7798790",
+    "img": "images/i7798790.png",
+    "overlay_font_size": 14,
+    "initial_active_state": false
+  },
+  {
+    "name": "Scorch Wheel",
+    "type": "toggle",
+    "codes": "i7798791",
+    "img": "images/i7798791.png",
+    "overlay_font_size": 14,
+    "initial_active_state": false
+  },
+  {
+    "name": "Rush Coil",
+    "type": "toggle",
+    "codes": "i7798792",
+    "img": "images/i7798792.png",
+    "overlay_font_size": 14,
+    "initial_active_state": false
+  },
+  {
+    "name": "Rush Search",
+    "type": "toggle",
+    "codes": "i7798793",
+    "img": "images/i7798793.png",
+    "overlay_font_size": 14,
+    "initial_active_state": false
+  },
+  {
+    "name": "Rush Jet",
+    "type": "toggle",
+    "codes": "i7798794",
+    "img": "images/i7798794.png",
+    "overlay_font_size": 14,
+    "initial_active_state": false
+  },
+  {
+    "name": "Rush R Plate",
+    "type": "toggle",
+    "codes": "i7798795",
+    "img": "images/i7798795.png",
+    "overlay_font_size": 14,
+    "initial_active_state": false
+  },
+  {
+    "name": "Rush U Plate",
+    "type": "toggle",
+    "codes": "i7798796",
+    "img": "images/i7798796.png",
+    "overlay_font_size": 14,
+    "initial_active_state": false
+  },
+  {
+    "name": "Rush S Plate",
+    "type": "toggle",
+    "codes": "i7798797",
+    "img": "images/i7798797.png",
+    "overlay_font_size": 14,
+    "initial_active_state": false
+  },
+  {
+    "name": "Rush H Plate",
+    "type": "toggle",
+    "codes": "i7798798",
+    "img": "images/i7798798.png",
+    "overlay_font_size": 14,
+    "initial_active_state": false
+  },
+  {
+    "name": "Proto Shield",
+    "type": "toggle",
+    "codes": "i7798799",
+    "img": "images/i7798799.png",
+    "overlay_font_size": 14,
+    "initial_active_state": false
+  },
+  {
+    "name": "Hyper Bolt",
+    "type": "toggle",
+    "codes": "i7798800",
+    "img": "images/i7798800.png",
+    "overlay_font_size": 14,
+    "initial_active_state": false
+  },
+  {
+    "name": "Exit Unit",
+    "type": "toggle",
+    "codes": "i7798801",
+    "img": "images/i7798801.png",
+    "overlay_font_size": 14,
+    "initial_active_state": false
+  },
+  {
+    "name": "Hyper Rocket Buster",
+    "type": "toggle",
+    "codes": "i7798802",
+    "img": "images/i7798802.png",
+    "overlay_font_size": 14,
+    "initial_active_state": false
+  },
+  {
+    "name": "Energy Balancer",
+    "type": "toggle",
+    "codes": "i7798803",
+    "img": "images/i7798803.png",
+    "overlay_font_size": 14,
+    "initial_active_state": false
+  },
+  {
+    "name": "Beat",
+    "type": "toggle",
+    "codes": "i7798804",
+    "img": "images/i7798804.png",
+    "overlay_font_size": 14,
+    "initial_active_state": false
+  },
+  {
+    "name": "Proto Man's Clue 1",
+    "type": "toggle",
+    "codes": "i7798805",
+    "img": "images/i7798805.png",
+    "overlay_font_size": 14,
+    "initial_active_state": false
+  },
+  {
+    "name": "Proto Man's Clue 2",
+    "type": "toggle",
+    "codes": "i7798806",
+    "img": "images/i7798806.png",
+    "overlay_font_size": 14,
+    "initial_active_state": false
+  },
+  {
+    "name": "Freeze Man Access Code",
+    "type": "toggle",
+    "codes": "i7798832",
+    "img": "images/i7798832.png"
+  },
+  {
+    "name": "Cloud Man Access Code",
+    "type": "toggle",
+    "codes": "i7798833",
+    "img": "images/i7798833.png"
+  },
+  {
+    "name": "Junk Man Access Code",
+    "type": "toggle",
+    "codes": "i7798834",
+    "img": "images/i7798834.png"
+  },
+  {
+    "name": "Turbo Man Access Code",
+    "type": "toggle",
+    "codes": "i7798835",
+    "img": "images/i7798835.png"
+  },
+  {
+    "name": "Slash Man Access Code",
+    "type": "toggle",
+    "codes": "i7798836",
+    "img": "images/i7798836.png"
+  },
+  {
+    "name": "Shade Man Access Code",
+    "type": "toggle",
+    "codes": "i7798837",
+    "img": "images/i7798837.png"
+  },
+  {
+    "name": "Burst Man Access Code",
+    "type": "toggle",
+    "codes": "i7798838",
+    "img": "images/i7798838.png"
+  },
+  {
+    "name": "Spring Man Access Code",
+    "type": "toggle",
+    "codes": "i7798839",
+    "img": "images/i7798839.png"
+  },
+  {
+    "name": "Wily 1 Access Code",
+    "type": "toggle",
+    "codes": "i7798829",
+    "img": "images/wily-emblem-1.png"
+  },
+  {
+    "name": "Wily 2 Access Code",
+    "type": "toggle",
+    "codes": "i7798830",
+    "img": "images/wily-emblem-2.png"
+  },
+  {
+    "name": "Wily 3 Access Code",
+    "type": "toggle",
+    "codes": "i7798831",
+    "img": "images/wily-emblem-3.png"
+  },
+  {
+    "name": "Wily 4 Boss Rush Access Code",
+    "type": "toggle",
+    "codes": "i7798840",
+    "img": "images/wily-emblem-4.png"
+  },
+  {
+    "name": "1-Up",
+    "type": "consumable",
+    "codes": "i7798822",
+    "img": "images/i7798822.png",
+    "min_quantity": 0,
+    "max_quantity": 9999,
+    "overlay_font_size": 14
+  },
+  {
+    "name": "E-Tank",
+    "type": "consumable",
+    "codes": "i7798825",
+    "img": "images/i7798825.png",
+    "min_quantity": 0,
+    "max_quantity": 9999,
+    "overlay_font_size": 14
+  },
+  {
+    "name": "W-Tank",
+    "type": "consumable",
+    "codes": "i7798826",
+    "img": "images/i7798826.png",
+    "min_quantity": 0,
+    "max_quantity": 9999,
+    "overlay_font_size": 14
+  },
+  {
+    "name": "S-Tank",
+    "type": "consumable",
+    "codes": "i7798827",
+    "img": "images/i7798827.png",
+    "min_quantity": 0,
+    "max_quantity": 9999,
+    "overlay_font_size": 14
+  },
+  {
+    "name": "Stage codes",
+    "codes": "opt_robot_master_access_codes",
+    "img": "images/opt_robot_master_access_codes.png",
+    "type": "toggle",
+    "initial_active_state": false
+  },
+  {
+    "name": "Pickupsanity",
+    "codes": "opt_pickupsanity",
+    "img": "images/opt_pickupsanity.png",
+    "type": "toggle",
+    "initial_active_state": false
+  },
+  {
+    "name": "Split Boss Rush",
+    "codes": "opt_boss_rush_checks",
+    "img": "images/opt_boss_rush_checks.png",
+    "type": "toggle",
+    "initial_active_state": true
+  },
+  {
+    "name": "Boss weakness",
+    "codes": "opt_logic_boss_weakness",
+    "img": "images/opt_logic_boss_weakness.png",
+    "type": "toggle",
+    "initial_active_state": false
+  },
+  {
+    "name": "Exit uncleared",
+    "codes": "opt_exit_unit_in_uncleared_stages",
+    "img": "images/opt_exit_unit_in_uncleared_stages.png",
+    "type": "toggle",
+    "initial_active_state": false
+  },
+  {
+    "name": "Paid Exit",
+    "codes": "opt_paid_exit_unit",
+    "img": "images/opt_paid_exit_unit.png",
+    "type": "toggle",
+    "initial_active_state": true
+  },
+  {
+    "name": "Paid Exit logic",
+    "codes": "opt_paid_exit_unit_in_logic",
+    "img": "images/opt_paid_exit_unit_in_logic.png",
+    "type": "toggle",
+    "initial_active_state": false
+  },
+  {
+    "name": "Skip museum",
+    "codes": "opt_skip_robot_museum",
+    "img": "images/opt_skip_robot_museum.png",
+    "type": "toggle",
+    "initial_active_state": false
+  },
+  {
+    "name": "Museum bosses",
+    "codes": "opt_robot_museum_robot_masters",
+    "img": "images/opt_robot_museum_robot_masters.png",
+    "type": "consumable",
+    "min_quantity": 0,
+    "max_quantity": 8,
+    "initial_quantity": 4
+  },
+  {
+    "name": "Wily mode 0/1/2",
+    "codes": "opt_wily_4_behavior",
+    "img": "images/opt_wily_4_behavior.png",
+    "type": "consumable",
+    "min_quantity": 0,
+    "max_quantity": 2,
+    "initial_quantity": 1
+  },
+  {
+    "name": "Final type 0-3",
+    "codes": "opt_wily_4_requirement_type",
+    "img": "images/opt_wily_4_requirement_type.png",
+    "type": "consumable",
+    "min_quantity": 0,
+    "max_quantity": 3,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Final Wily count",
+    "codes": "opt_wily_4_wily_stages",
+    "img": "images/opt_wily_4_wily_stages.png",
+    "type": "consumable",
+    "min_quantity": 0,
+    "max_quantity": 4,
+    "initial_quantity": 3
+  },
+  {
+    "name": "Final boss count",
+    "codes": "opt_wily_4_robot_masters",
+    "img": "images/opt_wily_4_robot_masters.png",
+    "type": "consumable",
+    "min_quantity": 0,
+    "max_quantity": 8,
+    "initial_quantity": 8
+  },
+  {
+    "name": "Final weapons",
+    "codes": "opt_wily_4_weapons",
+    "img": "images/opt_wily_4_weapons.png",
+    "type": "consumable",
+    "min_quantity": 0,
+    "max_quantity": 8,
+    "initial_quantity": 8
+  },
+  {
+    "name": "Logic refresh",
+    "type": "toggle",
+    "codes": "logic_refresh",
+    "img": "images/opt_pickupsanity.png"
+  },
+  {
+    "name": "Final Wily access (derived from logic settings)",
+    "type": "progressive",
+    "codes": "wily_final",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/wily-emblem-4.png",
+        "img_mods": "@disabled"
+      },
+      {
+        "img": "images/wily-emblem-4.png"
+      },
+      {
+        "img": "images/wily-emblem-5.png",
+        "img_mods": "@disabled"
+      },
+      {
+        "img": "images/wily-emblem-5.png"
+      }
+    ]
+  },
+  {
+    "name": "Current bolts (SNES live, or click to set manually)",
+    "type": "consumable",
+    "codes": "bolts",
+    "img": "images/bolts.png",
+    "min_quantity": 0,
+    "max_quantity": 999,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Automatically follow current stage (requires SNES connection)",
+    "type": "toggle",
+    "codes": "follow_stage",
+    "img": "images/follow_stage.png",
+    "initial_active_state": true
+  },
+  {
+    "name": "1-Up shop offer (price shown; status means affordable)",
+    "type": "progressive",
+    "codes": "shop_life",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/i7798822.png",
+        "img_mods": "@disabled"
+      },
+      {
+        "img": "images/i7798822.png"
+      }
+    ],
+    "overlay_font_size": 14
+  },
+  {
+    "name": "E-Tank shop offer (price shown; status means affordable)",
+    "type": "progressive",
+    "codes": "shop_etank",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/i7798825.png",
+        "img_mods": "@disabled"
+      },
+      {
+        "img": "images/i7798825.png"
+      }
+    ],
+    "overlay_font_size": 14
+  },
+  {
+    "name": "W-Tank shop offer (price shown; status means affordable)",
+    "type": "progressive",
+    "codes": "shop_wtank",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/i7798826.png",
+        "img_mods": "@disabled"
+      },
+      {
+        "img": "images/i7798826.png"
+      }
+    ],
+    "overlay_font_size": 14
+  },
+  {
+    "name": "Beat shop offer (price shown; status means affordable)",
+    "type": "progressive",
+    "codes": "shop_beat",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/i7798804.png",
+        "img_mods": "@disabled"
+      },
+      {
+        "img": "images/i7798804.png"
+      }
+    ],
+    "overlay_font_size": 14
+  },
+  {
+    "name": "Exit Unit shop offer (price shown; status means affordable)",
+    "type": "progressive",
+    "codes": "shop_exit",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/i7798801.png",
+        "img_mods": "@disabled"
+      },
+      {
+        "img": "images/i7798801.png"
+      }
+    ],
+    "overlay_font_size": 14
+  },
+  {
+    "name": "S-Tank shop offer (price shown; status means affordable)",
+    "type": "progressive",
+    "codes": "shop_stank",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/i7798827.png",
+        "img_mods": "@disabled"
+      },
+      {
+        "img": "images/i7798827.png"
+      }
+    ],
+    "overlay_font_size": 14
+  },
+  {
+    "name": "Rush Search shop offer (price shown; status means affordable)",
+    "type": "progressive",
+    "codes": "shop_search",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/i7798793.png",
+        "img_mods": "@disabled"
+      },
+      {
+        "img": "images/i7798793.png"
+      }
+    ],
+    "overlay_font_size": 14
+  },
+  {
+    "name": "Rush Jet shop offer (price shown; status means affordable)",
+    "type": "progressive",
+    "codes": "shop_jet",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/i7798794.png",
+        "img_mods": "@disabled"
+      },
+      {
+        "img": "images/i7798794.png"
+      }
+    ],
+    "overlay_font_size": 14
+  },
+  {
+    "name": "Energy Balancer shop offer (price shown; status means affordable)",
+    "type": "progressive",
+    "codes": "shop_balancer",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/i7798803.png",
+        "img_mods": "@disabled"
+      },
+      {
+        "img": "images/i7798803.png"
+      }
+    ],
+    "overlay_font_size": 14
+  },
+  {
+    "name": "Rocket Buster shop offer (price shown; status means affordable)",
+    "type": "progressive",
+    "codes": "shop_buster",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/i7798802.png",
+        "img_mods": "@disabled"
+      },
+      {
+        "img": "images/i7798802.png"
+      }
+    ],
+    "overlay_font_size": 14
+  },
+  {
+    "name": "AP seed logic",
+    "type": "toggle",
+    "codes": "opt_strict_seed_logic",
+    "img": "images/opt_strict_seed_logic.png",
+    "initial_active_state": false
+  },
+  {
+    "name": "Freeze Man Stage",
+    "codes": "stageview_7798832",
+    "type": "progressive",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/i7798832.png",
+        "img_mods": "@disabled"
+      },
+      {
+        "img": "images/i7798832.png"
+      }
+    ]
+  },
+  {
+    "name": "Cloud Man Stage",
+    "codes": "stageview_7798833",
+    "type": "progressive",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/i7798833.png",
+        "img_mods": "@disabled"
+      },
+      {
+        "img": "images/i7798833.png"
+      }
+    ]
+  },
+  {
+    "name": "Junk Man Stage",
+    "codes": "stageview_7798834",
+    "type": "progressive",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/i7798834.png",
+        "img_mods": "@disabled"
+      },
+      {
+        "img": "images/i7798834.png"
+      }
+    ]
+  },
+  {
+    "name": "Turbo Man Stage",
+    "codes": "stageview_7798835",
+    "type": "progressive",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/i7798835.png",
+        "img_mods": "@disabled"
+      },
+      {
+        "img": "images/i7798835.png"
+      }
+    ]
+  },
+  {
+    "name": "Slash Man Stage",
+    "codes": "stageview_7798836",
+    "type": "progressive",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/i7798836.png",
+        "img_mods": "@disabled"
+      },
+      {
+        "img": "images/i7798836.png"
+      }
+    ]
+  },
+  {
+    "name": "Shade Man Stage",
+    "codes": "stageview_7798837",
+    "type": "progressive",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/i7798837.png",
+        "img_mods": "@disabled"
+      },
+      {
+        "img": "images/i7798837.png"
+      }
+    ]
+  },
+  {
+    "name": "Burst Man Stage",
+    "codes": "stageview_7798838",
+    "type": "progressive",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/i7798838.png",
+        "img_mods": "@disabled"
+      },
+      {
+        "img": "images/i7798838.png"
+      }
+    ]
+  },
+  {
+    "name": "Spring Man Stage",
+    "codes": "stageview_7798839",
+    "type": "progressive",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/i7798839.png",
+        "img_mods": "@disabled"
+      },
+      {
+        "img": "images/i7798839.png"
+      }
+    ]
+  }
+]

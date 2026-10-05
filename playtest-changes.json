@@ -1,0 +1,222 @@
+{
+  "changed_markers": [
+    {
+      "id": 7799107,
+      "map": 8,
+      "x": 2736,
+      "y": 650,
+      "note": "Spring weapon capsule: room reference; exact pixel remains unverified",
+      "room_reference": true
+    },
+    {
+      "id": 7799076,
+      "map": 8,
+      "x": 2580,
+      "y": 600,
+      "note": "Hidden Hyper Bolt room entrance: bouncing box opens the left wall",
+      "room_reference": true
+    },
+    {
+      "id": 7799088,
+      "map": 4,
+      "x": 2673,
+      "y": 1954,
+      "note": "User screenshot: Rush Search dig in the bottom-right blue room on the Freeze Cracker route",
+      "room_reference": false
+    },
+    {
+      "id": 7799123,
+      "map": 4,
+      "x": 2250,
+      "y": 710,
+      "note": "Thunder Bolt ladder route health capsule",
+      "room_reference": false
+    },
+    {
+      "id": 7799083,
+      "map": 4,
+      "x": 2144,
+      "y": 450,
+      "note": "User screenshot: beneath the raised pillar machinery that hides Rush Jet",
+      "room_reference": false
+    },
+    {
+      "id": 7799086,
+      "map": 6,
+      "x": 2652,
+      "y": 1173,
+      "note": "User screenshot: raised platform before the Proto Man passage",
+      "room_reference": false
+    },
+    {
+      "id": 7799137,
+      "map": 6,
+      "x": 2856,
+      "y": 858,
+      "note": "Pumpkin shell route health capsule on the right platform",
+      "room_reference": false
+    },
+    {
+      "id": 7799140,
+      "map": 6,
+      "x": 3257,
+      "y": 568,
+      "note": "Upper branch 1-Up; Rush Jet or Super Adapter",
+      "room_reference": false
+    },
+    {
+      "id": 7799139,
+      "map": 6,
+      "x": 2608,
+      "y": 1624,
+      "note": "Pumpkin core route health; Rush Coil, Jet or Super Adapter",
+      "room_reference": true
+    },
+    {
+      "id": 7799138,
+      "map": 6,
+      "x": 2865,
+      "y": 1975,
+      "note": "Pumpkin core route 1-Up",
+      "room_reference": true
+    },
+    {
+      "id": 7799151,
+      "map": 11,
+      "x": 1800,
+      "y": 1367,
+      "note": "First small health after Bass",
+      "room_reference": true
+    },
+    {
+      "id": 7799152,
+      "map": 11,
+      "x": 1832,
+      "y": 1367,
+      "note": "Second small health after Bass",
+      "room_reference": true
+    },
+    {
+      "id": 7799153,
+      "map": 11,
+      "x": 1864,
+      "y": 1367,
+      "note": "Third small health after Bass",
+      "room_reference": true
+    },
+    {
+      "id": 7799077,
+      "map": 3,
+      "x": 5184,
+      "y": 891,
+      "note": "User screenshot: raised floor before Freeze Man boss approach",
+      "room_reference": false
+    },
+    {
+      "id": 7799080,
+      "map": 7,
+      "x": 5400,
+      "y": 110,
+      "note": "Burn the last tree with Scorch Wheel and reach the cage with Rush",
+      "room_reference": false
+    },
+    {
+      "id": 7799090,
+      "map": 10,
+      "x": 5520,
+      "y": 161,
+      "note": "Guts Man G boss arena",
+      "room_reference": false
+    },
+    {
+      "id": 7799092,
+      "map": 12,
+      "x": 4230,
+      "y": 520,
+      "note": "HannyaNED2 boss arena",
+      "room_reference": false
+    },
+    {
+      "id": 7799093,
+      "map": 13,
+      "x": 40,
+      "y": 190,
+      "note": "Boss Rush room; Boss Rush - Freeze Man",
+      "room_reference": true
+    },
+    {
+      "id": 7799094,
+      "map": 13,
+      "x": 165,
+      "y": 190,
+      "note": "Boss Rush room; Boss Rush - Slash Man",
+      "room_reference": true
+    },
+    {
+      "id": 7799095,
+      "map": 13,
+      "x": 40,
+      "y": 305,
+      "note": "Boss Rush room; Boss Rush - Junk Man",
+      "room_reference": true
+    },
+    {
+      "id": 7799096,
+      "map": 13,
+      "x": 165,
+      "y": 305,
+      "note": "Boss Rush room; Boss Rush - Cloud Man",
+      "room_reference": true
+    },
+    {
+      "id": 7799097,
+      "map": 13,
+      "x": 40,
+      "y": 420,
+      "note": "Boss Rush room; Boss Rush - Turbo Man",
+      "room_reference": true
+    },
+    {
+      "id": 7799098,
+      "map": 13,
+      "x": 165,
+      "y": 420,
+      "note": "Boss Rush room; Boss Rush - Spring Man",
+      "room_reference": true
+    },
+    {
+      "id": 7799099,
+      "map": 13,
+      "x": 40,
+      "y": 535,
+      "note": "Boss Rush room; Boss Rush - Shade Man",
+      "room_reference": true
+    },
+    {
+      "id": 7799100,
+      "map": 13,
+      "x": 165,
+      "y": 535,
+      "note": "Boss Rush room; Boss Rush - Burst Man",
+      "room_reference": true
+    }
+  ],
+  "verified_routes": {
+    "7799130": [],
+    "7799142": [],
+    "7799143": [
+      "Rush Jet"
+    ],
+    "7799162": [
+      "Rush Jet OR Super Adapter"
+    ],
+    "7799163": [
+      "Rush Jet OR Super Adapter"
+    ],
+    "7799164": [
+      "Rush Jet OR Super Adapter"
+    ]
+  },
+  "source": "Uploaded full playtest notes and server log, 2026-10-01",
+  "ap_ids_preserved": true
+}

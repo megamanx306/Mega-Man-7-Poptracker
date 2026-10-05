@@ -1,0 +1,943 @@
+[
+  {
+    "location": "Freeze Man Weapon Get",
+    "placement": "visible boss arena / stage end",
+    "coordinate": [
+      3,
+      5700,
+      919
+    ]
+  },
+  {
+    "location": "Rush H Plate Location",
+    "placement": "visible Rush plate",
+    "coordinate": [
+      3,
+      2624,
+      39
+    ]
+  },
+  {
+    "location": "Exit Unit Location",
+    "placement": "User screenshot: raised floor before Freeze Man boss approach",
+    "coordinate": [
+      3,
+      5184,
+      891
+    ]
+  },
+  {
+    "location": "Rush Search Location",
+    "placement": "Rush Search sprite and user screenshot: Freeze Man Section 5",
+    "coordinate": [
+      3,
+      3648,
+      1078
+    ]
+  },
+  {
+    "location": "Freeze Man - Large Weapon Energy",
+    "placement": "visible sprite matched; AP stage pickup order",
+    "coordinate": [
+      3,
+      1504,
+      454
+    ]
+  },
+  {
+    "location": "Freeze Man - Large Health",
+    "placement": "visible sprite matched; AP stage pickup order",
+    "coordinate": [
+      3,
+      1568,
+      455
+    ]
+  },
+  {
+    "location": "Freeze Man - E-Tank",
+    "placement": "visible sprite matched; AP stage pickup order",
+    "coordinate": [
+      3,
+      4320,
+      1142
+    ]
+  },
+  {
+    "location": "Cloud Man Weapon Get",
+    "placement": "visible boss arena / stage end",
+    "coordinate": [
+      2,
+      6770,
+      183
+    ]
+  },
+  {
+    "location": "Proto Man's Clue 1 Location",
+    "placement": "Cloud Man upper ladder meeting room",
+    "coordinate": [
+      2,
+      4736,
+      165
+    ]
+  },
+  {
+    "location": "Rush U Plate Location",
+    "placement": "visible Rush plate",
+    "coordinate": [
+      2,
+      3927,
+      567
+    ]
+  },
+  {
+    "location": "Cloud Man's Mega Bolt Location",
+    "placement": "Rush Search guide matched to floor landmark; approximate center of dig area",
+    "coordinate": [
+      2,
+      4504,
+      449
+    ]
+  },
+  {
+    "location": "Cloud Man - Large Health 1",
+    "placement": "visible sprite matched; AP stage pickup order",
+    "coordinate": [
+      2,
+      2496,
+      1095
+    ]
+  },
+  {
+    "location": "Cloud Man - 1-Up 1",
+    "placement": "visible sprite matched; AP stage pickup order",
+    "coordinate": [
+      2,
+      1568,
+      1063
+    ]
+  },
+  {
+    "location": "Cloud Man - 1-Up 2",
+    "placement": "visible sprite matched; AP stage pickup order",
+    "coordinate": [
+      2,
+      4272,
+      551
+    ]
+  },
+  {
+    "location": "Cloud Man - Large Health 2",
+    "placement": "visible sprite matched; AP stage pickup order",
+    "coordinate": [
+      2,
+      4504,
+      439
+    ]
+  },
+  {
+    "location": "Cloud Man - Large Bolt",
+    "placement": "visible sprite matched; AP stage pickup order",
+    "coordinate": [
+      2,
+      5072,
+      325
+    ]
+  },
+  {
+    "location": "Junk Man Weapon Get",
+    "placement": "visible boss arena / stage end",
+    "coordinate": [
+      4,
+      4735,
+      439
+    ]
+  },
+  {
+    "location": "Rush S Plate Location",
+    "placement": "visible Rush plate",
+    "coordinate": [
+      4,
+      1856,
+      1975
+    ]
+  },
+  {
+    "location": "Rush Jet Location",
+    "placement": "User screenshot: beneath the raised pillar machinery that hides Rush Jet",
+    "coordinate": [
+      4,
+      2144,
+      450
+    ]
+  },
+  {
+    "location": "Junk Man's Mega Bolt Location",
+    "placement": "User screenshot: Rush Search dig in the bottom-right blue room on the Freeze Cracker route",
+    "coordinate": [
+      4,
+      2673,
+      1954
+    ]
+  },
+  {
+    "location": "Junk Man - Large Bolt",
+    "placement": "visible sprite matched; AP stage pickup order",
+    "coordinate": [
+      4,
+      752,
+      85
+    ]
+  },
+  {
+    "location": "Junk Man - Large Health 1",
+    "placement": "bottom check board; terrain position unverified",
+    "coordinate": null
+  },
+  {
+    "location": "Junk Man - 1-Up",
+    "placement": "visible sprite matched; AP stage pickup order",
+    "coordinate": [
+      4,
+      2608,
+      1719
+    ]
+  },
+  {
+    "location": "Junk Man - Large Weapon Energy",
+    "placement": "visible sprite matched; AP stage pickup order",
+    "coordinate": [
+      4,
+      4048,
+      86
+    ]
+  },
+  {
+    "location": "Turbo Man Weapon Get",
+    "placement": "visible boss arena / stage end",
+    "coordinate": [
+      9,
+      5260,
+      1660
+    ]
+  },
+  {
+    "location": "Proto Man's Clue 2 Location",
+    "placement": "Turbo Man hidden room to right of long ladder",
+    "coordinate": [
+      9,
+      2448,
+      695
+    ]
+  },
+  {
+    "location": "Hyper Rocket Buster Location",
+    "placement": "Rush Search guide matched to floor landmark; approximate center of dig area",
+    "coordinate": [
+      9,
+      2112,
+      895
+    ]
+  },
+  {
+    "location": "Turbo Man's Mega Bolt Location",
+    "placement": "Rush Search guide matched to floor landmark; approximate center of dig area",
+    "coordinate": [
+      9,
+      2160,
+      451
+    ]
+  },
+  {
+    "location": "Turbo Man - Large Health 1",
+    "placement": "visible sprite matched; AP stage pickup order",
+    "coordinate": [
+      9,
+      2096,
+      887
+    ]
+  },
+  {
+    "location": "Turbo Man - 1-Up",
+    "placement": "visible sprite matched; AP stage pickup order",
+    "coordinate": [
+      9,
+      2992,
+      535
+    ]
+  },
+  {
+    "location": "Turbo Man - Large Health 2",
+    "placement": "visible sprite matched; AP stage pickup order",
+    "coordinate": [
+      9,
+      2944,
+      951
+    ]
+  },
+  {
+    "location": "Turbo Man - E-Tank",
+    "placement": "visible sprite matched; AP stage pickup order",
+    "coordinate": [
+      9,
+      3024,
+      1079
+    ]
+  },
+  {
+    "location": "Slash Man Weapon Get",
+    "placement": "visible boss arena / stage end",
+    "coordinate": [
+      7,
+      6520,
+      375
+    ]
+  },
+  {
+    "location": "Beat Location",
+    "placement": "bottom check board; terrain position unverified",
+    "coordinate": null
+  },
+  {
+    "location": "Slash Man - Large Health 1",
+    "placement": "visible sprite matched; AP stage pickup order",
+    "coordinate": [
+      7,
+      1616,
+      1607
+    ]
+  },
+  {
+    "location": "Slash Man - E-Tank",
+    "placement": "visible sprite matched; AP stage pickup order",
+    "coordinate": [
+      7,
+      3592,
+      1047
+    ]
+  },
+  {
+    "location": "Slash Man - Large Health 2",
+    "placement": "visible sprite matched; AP stage pickup order",
+    "coordinate": [
+      7,
+      4336,
+      551
+    ]
+  },
+  {
+    "location": "Shade Man Weapon Get",
+    "placement": "visible boss arena / stage end",
+    "coordinate": [
+      6,
+      4730,
+      1165
+    ]
+  },
+  {
+    "location": "Proto Shield Location",
+    "placement": "Shade Man secret passage behind Sniper Joe; fight room is separately referenced",
+    "coordinate": [
+      6,
+      3050,
+      1195
+    ]
+  },
+  {
+    "location": "Energy Balancer Location",
+    "placement": "Rush Search guide matched to floor landmark; approximate center of dig area",
+    "coordinate": [
+      6,
+      3584,
+      658
+    ]
+  },
+  {
+    "location": "Shade Man's Mega Bolt Location",
+    "placement": "User screenshot: raised platform before the Proto Man passage",
+    "coordinate": [
+      6,
+      2652,
+      1173
+    ]
+  },
+  {
+    "location": "Shade Man - Large Bolt",
+    "placement": "visible sprite matched; AP stage pickup order",
+    "coordinate": [
+      6,
+      808,
+      1349
+    ]
+  },
+  {
+    "location": "Shade Man - Large Health 1",
+    "placement": "bottom check board; terrain position unverified",
+    "coordinate": null
+  },
+  {
+    "location": "Shade Man - 1-Up 1",
+    "placement": "bottom check board; terrain position unverified",
+    "coordinate": null
+  },
+  {
+    "location": "Shade Man - Large Health 2",
+    "placement": "bottom check board; terrain position unverified",
+    "coordinate": null
+  },
+  {
+    "location": "Shade Man - 1-Up 2",
+    "placement": "bottom check board; terrain position unverified",
+    "coordinate": null
+  },
+  {
+    "location": "Burst Man Weapon Get",
+    "placement": "visible boss arena / stage end",
+    "coordinate": [
+      1,
+      4740,
+      665
+    ]
+  },
+  {
+    "location": "Rush R Plate Location",
+    "placement": "visible Rush plate",
+    "coordinate": [
+      1,
+      3528,
+      823
+    ]
+  },
+  {
+    "location": "Burst Man - 1-Up 1",
+    "placement": "visible sprite matched; AP stage pickup order",
+    "coordinate": [
+      1,
+      816,
+      295
+    ]
+  },
+  {
+    "location": "Burst Man - E-Tank",
+    "placement": "visible sprite matched; AP stage pickup order",
+    "coordinate": [
+      1,
+      968,
+      567
+    ]
+  },
+  {
+    "location": "Burst Man - 1-Up 2",
+    "placement": "visible sprite matched; AP stage pickup order",
+    "coordinate": [
+      1,
+      1336,
+      823
+    ]
+  },
+  {
+    "location": "Burst Man - Large Health 1",
+    "placement": "palette-adjusted refill sprite match; AP stage pickup order",
+    "coordinate": [
+      1,
+      1480,
+      1159
+    ]
+  },
+  {
+    "location": "Burst Man - Large Weapon Energy",
+    "placement": "palette-adjusted refill sprite match; AP stage pickup order",
+    "coordinate": [
+      1,
+      2212,
+      966
+    ]
+  },
+  {
+    "location": "Burst Man - Large Health 2",
+    "placement": "palette-adjusted refill sprite match; AP stage pickup order",
+    "coordinate": [
+      1,
+      3808,
+      871
+    ]
+  },
+  {
+    "location": "Spring Man Weapon Get",
+    "placement": "visible boss arena / stage end",
+    "coordinate": [
+      8,
+      4230,
+      407
+    ]
+  },
+  {
+    "location": "Hyper Bolt Location",
+    "placement": "bottom check board; terrain position unverified",
+    "coordinate": null
+  },
+  {
+    "location": "Spring Man's Mega Bolt Location",
+    "placement": "Rush Search guide matched to floor landmark; approximate center of dig area",
+    "coordinate": [
+      8,
+      2695,
+      1138
+    ]
+  },
+  {
+    "location": "Mega Health Capsule Location",
+    "placement": "Rush Search guide matched to floor landmark; approximate center of dig area",
+    "coordinate": [
+      8,
+      2688,
+      1458
+    ]
+  },
+  {
+    "location": "Spring Man - Large Bolt",
+    "placement": "visible sprite matched; AP stage pickup order",
+    "coordinate": [
+      8,
+      48,
+      85
+    ]
+  },
+  {
+    "location": "Spring Man - Large Health 1",
+    "placement": "visible sprite matched; AP stage pickup order",
+    "coordinate": [
+      8,
+      1231,
+      327
+    ]
+  },
+  {
+    "location": "Spring Man - 1-Up 1",
+    "placement": "visible sprite matched; AP stage pickup order",
+    "coordinate": [
+      8,
+      1103,
+      823
+    ]
+  },
+  {
+    "location": "Spring Man - Large Weapon Energy",
+    "placement": "bottom check board; terrain position unverified",
+    "coordinate": null
+  },
+  {
+    "location": "Spring Man - 1-Up 2",
+    "placement": "visible sprite matched; AP stage pickup order",
+    "coordinate": [
+      8,
+      2975,
+      551
+    ]
+  },
+  {
+    "location": "Spring Man - E-Tank",
+    "placement": "visible sprite matched; AP stage pickup order",
+    "coordinate": [
+      8,
+      3311,
+      599
+    ]
+  },
+  {
+    "location": "Spring Man - Large Health 2",
+    "placement": "visible sprite matched; AP stage pickup order",
+    "coordinate": [
+      8,
+      3543,
+      1463
+    ]
+  },
+  {
+    "location": "Mash Defeated",
+    "placement": "visible boss arena / stage end",
+    "coordinate": [
+      5,
+      1430,
+      150
+    ]
+  },
+  {
+    "location": "Guts Man G Reward",
+    "placement": "visible boss arena / stage end",
+    "coordinate": [
+      10,
+      5500,
+      405
+    ]
+  },
+  {
+    "location": "Wily 1 - Large Bolt",
+    "placement": "visible sprite matched; AP stage pickup order",
+    "coordinate": [
+      10,
+      880,
+      581
+    ]
+  },
+  {
+    "location": "Wily 1 - Large Weapon Energy",
+    "placement": "visible sprite matched; AP stage pickup order",
+    "coordinate": [
+      10,
+      2096,
+      326
+    ]
+  },
+  {
+    "location": "Wily 1 - 1-Up",
+    "placement": "visible sprite matched; AP stage pickup order",
+    "coordinate": [
+      10,
+      2928,
+      343
+    ]
+  },
+  {
+    "location": "Wily 1 - Large Health 1",
+    "placement": "visible sprite matched; AP stage pickup order",
+    "coordinate": [
+      10,
+      2890,
+      439
+    ]
+  },
+  {
+    "location": "Wily 1 - Large Health 2",
+    "placement": "visible sprite matched; AP stage pickup order",
+    "coordinate": [
+      10,
+      3968,
+      903
+    ]
+  },
+  {
+    "location": "Wily 1 - E-Tank",
+    "placement": "visible sprite matched; AP stage pickup order",
+    "coordinate": [
+      10,
+      4032,
+      87
+    ]
+  },
+  {
+    "location": "Gamerizer Reward",
+    "placement": "visible boss arena / stage end",
+    "coordinate": [
+      11,
+      2960,
+      125
+    ]
+  },
+  {
+    "location": "Wily 2 - Large Bolt",
+    "placement": "visible sprite matched; AP stage pickup order",
+    "coordinate": [
+      11,
+      280,
+      3173
+    ]
+  },
+  {
+    "location": "Wily 2 - Large Health 1",
+    "placement": "visible sprite matched; AP stage pickup order",
+    "coordinate": [
+      11,
+      976,
+      3015
+    ]
+  },
+  {
+    "location": "Wily 2 - 1-Up",
+    "placement": "visible sprite matched; AP stage pickup order",
+    "coordinate": [
+      11,
+      976,
+      2503
+    ]
+  },
+  {
+    "location": "Wily 2 - Large Health 2",
+    "placement": "visible sprite matched; AP stage pickup order",
+    "coordinate": [
+      11,
+      1240,
+      2103
+    ]
+  },
+  {
+    "location": "Wily 2 - Small Health 1",
+    "placement": "bottom check board; terrain position unverified",
+    "coordinate": null
+  },
+  {
+    "location": "Wily 2 - Small Health 2",
+    "placement": "bottom check board; terrain position unverified",
+    "coordinate": null
+  },
+  {
+    "location": "Wily 2 - Small Health 3",
+    "placement": "bottom check board; terrain position unverified",
+    "coordinate": null
+  },
+  {
+    "location": "Wily 2 - Large Health 3",
+    "placement": "visible sprite matched; AP stage pickup order",
+    "coordinate": [
+      11,
+      2272,
+      855
+    ]
+  },
+  {
+    "location": "Wily 2 - Large Weapon Energy",
+    "placement": "visible sprite matched; AP stage pickup order",
+    "coordinate": [
+      11,
+      2504,
+      310
+    ]
+  },
+  {
+    "location": "Wily 2 - Large Health 4",
+    "placement": "visible sprite matched; AP stage pickup order",
+    "coordinate": [
+      11,
+      2528,
+      311
+    ]
+  },
+  {
+    "location": "HannyaNED^2 Reward",
+    "placement": "visible boss arena / stage end",
+    "coordinate": [
+      12,
+      4210,
+      405
+    ]
+  },
+  {
+    "location": "Wily 3 - Large Bolt 1",
+    "placement": "visible sprite matched; AP stage pickup order",
+    "coordinate": [
+      12,
+      208,
+      2421
+    ]
+  },
+  {
+    "location": "Wily 3 - Large Bolt 2",
+    "placement": "visible sprite matched; AP stage pickup order",
+    "coordinate": [
+      12,
+      216,
+      2165
+    ]
+  },
+  {
+    "location": "Wily 3 - Large Health 1",
+    "placement": "visible sprite matched; AP stage pickup order",
+    "coordinate": [
+      12,
+      352,
+      1831
+    ]
+  },
+  {
+    "location": "Wily 3 - 1-Up 1",
+    "placement": "visible sprite matched; AP stage pickup order",
+    "coordinate": [
+      12,
+      960,
+      1383
+    ]
+  },
+  {
+    "location": "Wily 3 - 1-Up 2",
+    "placement": "visible sprite matched; AP stage pickup order",
+    "coordinate": [
+      12,
+      1456,
+      567
+    ]
+  },
+  {
+    "location": "Wily 3 - E-Tank 1",
+    "placement": "visible sprite matched; AP stage pickup order",
+    "coordinate": [
+      12,
+      2736,
+      55
+    ]
+  },
+  {
+    "location": "Wily 3 - S-Tank",
+    "placement": "visible sprite matched; AP stage pickup order",
+    "coordinate": [
+      12,
+      2760,
+      55
+    ]
+  },
+  {
+    "location": "Wily 3 - W-Tank",
+    "placement": "visible sprite matched; AP stage pickup order",
+    "coordinate": [
+      12,
+      2784,
+      55
+    ]
+  },
+  {
+    "location": "Wily 3 - 1-Up 3",
+    "placement": "palette-adjusted refill sprite match; AP stage pickup order",
+    "coordinate": [
+      12,
+      2096,
+      1575
+    ]
+  },
+  {
+    "location": "Wily 3 - Large Health 2",
+    "placement": "palette-adjusted refill sprite match; AP stage pickup order",
+    "coordinate": [
+      12,
+      2768,
+      919
+    ]
+  },
+  {
+    "location": "Wily 3 - E-Tank 2",
+    "placement": "visible sprite matched; AP stage pickup order",
+    "coordinate": [
+      12,
+      2896,
+      599
+    ]
+  },
+  {
+    "location": "Intro Stage Cleared",
+    "placement": "visible boss arena / stage end",
+    "coordinate": [
+      0,
+      2850,
+      150
+    ]
+  },
+  {
+    "location": "Boss Rush - Freeze Man",
+    "placement": "bottom check board; terrain position unverified",
+    "coordinate": null
+  },
+  {
+    "location": "Boss Rush - Slash Man",
+    "placement": "bottom check board; terrain position unverified",
+    "coordinate": null
+  },
+  {
+    "location": "Boss Rush - Junk Man",
+    "placement": "bottom check board; terrain position unverified",
+    "coordinate": null
+  },
+  {
+    "location": "Boss Rush - Cloud Man",
+    "placement": "bottom check board; terrain position unverified",
+    "coordinate": null
+  },
+  {
+    "location": "Boss Rush - Turbo Man",
+    "placement": "bottom check board; terrain position unverified",
+    "coordinate": null
+  },
+  {
+    "location": "Boss Rush - Spring Man",
+    "placement": "bottom check board; terrain position unverified",
+    "coordinate": null
+  },
+  {
+    "location": "Boss Rush - Shade Man",
+    "placement": "bottom check board; terrain position unverified",
+    "coordinate": null
+  },
+  {
+    "location": "Boss Rush - Burst Man",
+    "placement": "bottom check board; terrain position unverified",
+    "coordinate": null
+  },
+  {
+    "location": "Wily 4 - Large Bolt 1",
+    "placement": "visible sprite matched; AP stage pickup order",
+    "coordinate": [
+      13,
+      176,
+      341
+    ]
+  },
+  {
+    "location": "Wily 4 - Large Bolt 2",
+    "placement": "visible sprite matched; AP stage pickup order",
+    "coordinate": [
+      13,
+      200,
+      341
+    ]
+  },
+  {
+    "location": "Wily 4 - Large Bolt 3",
+    "placement": "visible sprite matched; AP stage pickup order",
+    "coordinate": [
+      13,
+      224,
+      341
+    ]
+  },
+  {
+    "location": "Wily 4 - W-Tank",
+    "placement": "visible sprite matched; AP stage pickup order",
+    "coordinate": [
+      13,
+      48,
+      343
+    ]
+  },
+  {
+    "location": "Wily 4 - 1-Up",
+    "placement": "visible sprite matched; AP stage pickup order",
+    "coordinate": [
+      13,
+      208,
+      439
+    ]
+  },
+  {
+    "location": "Wily 4 - Large Bolt 4",
+    "placement": "visible sprite matched; AP stage pickup order",
+    "coordinate": [
+      13,
+      32,
+      437
+    ]
+  },
+  {
+    "location": "Wily 4 - Large Bolt 5",
+    "placement": "visible sprite matched; AP stage pickup order",
+    "coordinate": [
+      13,
+      56,
+      437
+    ]
+  },
+  {
+    "location": "Wily 4 - Large Bolt 6",
+    "placement": "visible sprite matched; AP stage pickup order",
+    "coordinate": [
+      13,
+      80,
+      437
+    ]
+  }
+]

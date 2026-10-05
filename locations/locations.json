@@ -1,0 +1,2729 @@
+[
+  {
+    "name": "Check 7799048",
+    "visibility_rules": [
+      "$seed_has|7799048"
+    ],
+    "map_locations": [
+      {
+        "map": "full3",
+        "x": 5700,
+        "y": 919,
+        "size": 54
+      }
+    ],
+    "sections": [
+      {
+        "name": "Freeze Man Weapon Get",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799048"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Check 7799075",
+    "visibility_rules": [
+      "$seed_has|7799075"
+    ],
+    "map_locations": [
+      {
+        "map": "full3",
+        "x": 2624,
+        "y": 39,
+        "size": 54
+      }
+    ],
+    "sections": [
+      {
+        "name": "Rush H Plate Location",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799075"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Check 7799077",
+    "visibility_rules": [
+      "$seed_has|7799077"
+    ],
+    "map_locations": [
+      {
+        "map": "full3",
+        "x": 5184,
+        "y": 891,
+        "size": 71
+      }
+    ],
+    "sections": [
+      {
+        "name": "Exit Unit Location",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799077"
+        ]
+      },
+      {
+        "name": "Playtest: User screenshot: raised floor before Freeze Man boss approach",
+        "item_count": 0
+      },
+      {
+        "name": "Requires Rush Search to dig up the Exit Unit in Freeze Man’s stage.",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Check 7799082",
+    "visibility_rules": [
+      "$seed_has|7799082"
+    ],
+    "map_locations": [
+      {
+        "map": "full3",
+        "x": 3648,
+        "y": 1078,
+        "size": 54
+      }
+    ],
+    "sections": [
+      {
+        "name": "Rush Search Location",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799082"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Check 7799111",
+    "visibility_rules": [
+      "$mm7_pickups_visible|7799111"
+    ],
+    "map_locations": [
+      {
+        "map": "full3",
+        "x": 1504,
+        "y": 454,
+        "size": 54
+      }
+    ],
+    "sections": [
+      {
+        "name": "Freeze Man - Large Weapon Energy",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799111"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Check 7799112",
+    "visibility_rules": [
+      "$mm7_pickups_visible|7799112"
+    ],
+    "map_locations": [
+      {
+        "map": "full3",
+        "x": 1568,
+        "y": 455,
+        "size": 54
+      }
+    ],
+    "sections": [
+      {
+        "name": "Freeze Man - Large Health",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799112"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Check 7799113",
+    "visibility_rules": [
+      "$mm7_pickups_visible|7799113"
+    ],
+    "map_locations": [
+      {
+        "map": "full3",
+        "x": 4320,
+        "y": 1142,
+        "size": 54
+      }
+    ],
+    "sections": [
+      {
+        "name": "Freeze Man - E-Tank",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799113"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Check 7799049",
+    "visibility_rules": [
+      "$seed_has|7799049"
+    ],
+    "map_locations": [
+      {
+        "map": "full2",
+        "x": 6770,
+        "y": 183,
+        "size": 54
+      }
+    ],
+    "sections": [
+      {
+        "name": "Cloud Man Weapon Get",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799049"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Check 7799060",
+    "visibility_rules": [
+      "$seed_has|7799060"
+    ],
+    "map_locations": [
+      {
+        "map": "full2",
+        "x": 4736,
+        "y": 165,
+        "size": 54
+      }
+    ],
+    "sections": [
+      {
+        "name": "Proto Man's Clue 1 Location",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799060"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Check 7799073",
+    "visibility_rules": [
+      "$seed_has|7799073"
+    ],
+    "map_locations": [
+      {
+        "map": "full2",
+        "x": 3927,
+        "y": 567,
+        "size": 54
+      }
+    ],
+    "sections": [
+      {
+        "name": "Rush U Plate Location",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799073"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Check 7799084",
+    "visibility_rules": [
+      "$seed_has|7799084"
+    ],
+    "map_locations": [
+      {
+        "map": "full2",
+        "x": 4504,
+        "y": 415,
+        "size": 18
+      }
+    ],
+    "sections": [
+      {
+        "name": "Cloud Man's Mega Bolt Location",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799084"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Check 7799117",
+    "visibility_rules": [
+      "$mm7_pickups_visible|7799117"
+    ],
+    "map_locations": [
+      {
+        "map": "full2",
+        "x": 2496,
+        "y": 1095,
+        "size": 54
+      }
+    ],
+    "sections": [
+      {
+        "name": "Cloud Man - Large Health 1",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799117"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Check 7799118",
+    "visibility_rules": [
+      "$mm7_pickups_visible|7799118"
+    ],
+    "map_locations": [
+      {
+        "map": "full2",
+        "x": 1568,
+        "y": 1063,
+        "size": 54
+      }
+    ],
+    "sections": [
+      {
+        "name": "Cloud Man - 1-Up 1",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799118"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Check 7799119",
+    "visibility_rules": [
+      "$mm7_pickups_visible|7799119"
+    ],
+    "map_locations": [
+      {
+        "map": "full2",
+        "x": 4272,
+        "y": 551,
+        "size": 54
+      }
+    ],
+    "sections": [
+      {
+        "name": "Cloud Man - 1-Up 2",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799119"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Check 7799120",
+    "visibility_rules": [
+      "$mm7_pickups_visible|7799120"
+    ],
+    "map_locations": [
+      {
+        "map": "full2",
+        "x": 4504,
+        "y": 439,
+        "size": 18
+      }
+    ],
+    "sections": [
+      {
+        "name": "Cloud Man - Large Health 2",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799120"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Check 7799121",
+    "visibility_rules": [
+      "$mm7_pickups_visible|7799121"
+    ],
+    "map_locations": [
+      {
+        "map": "full2",
+        "x": 5072,
+        "y": 325,
+        "size": 54
+      }
+    ],
+    "sections": [
+      {
+        "name": "Cloud Man - Large Bolt",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799121"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Check 7799050",
+    "visibility_rules": [
+      "$seed_has|7799050"
+    ],
+    "map_locations": [
+      {
+        "map": "full4",
+        "x": 4735,
+        "y": 439,
+        "size": 54
+      }
+    ],
+    "sections": [
+      {
+        "name": "Junk Man Weapon Get",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799050"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Check 7799074",
+    "visibility_rules": [
+      "$seed_has|7799074"
+    ],
+    "map_locations": [
+      {
+        "map": "full4",
+        "x": 1856,
+        "y": 1975,
+        "size": 54
+      }
+    ],
+    "sections": [
+      {
+        "name": "Rush S Plate Location",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799074"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Check 7799083",
+    "visibility_rules": [
+      "$seed_has|7799083"
+    ],
+    "map_locations": [
+      {
+        "map": "full4",
+        "x": 2144,
+        "y": 450,
+        "size": 58
+      }
+    ],
+    "sections": [
+      {
+        "name": "Rush Jet Location",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799083"
+        ]
+      },
+      {
+        "name": "Playtest: User screenshot: beneath the raised pillar machinery that hides Rush Jet",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Check 7799088",
+    "visibility_rules": [
+      "$seed_has|7799088"
+    ],
+    "map_locations": [
+      {
+        "map": "full4",
+        "x": 2673,
+        "y": 1954,
+        "size": 58
+      }
+    ],
+    "sections": [
+      {
+        "name": "Junk Man's Mega Bolt Location",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799088"
+        ]
+      },
+      {
+        "name": "Playtest: User screenshot: Rush Search dig in the bottom-right blue room on the Freeze Cracker route",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Check 7799122",
+    "visibility_rules": [
+      "$mm7_pickups_visible|7799122"
+    ],
+    "map_locations": [
+      {
+        "map": "full4",
+        "x": 752,
+        "y": 85,
+        "size": 54
+      }
+    ],
+    "sections": [
+      {
+        "name": "Junk Man - Large Bolt",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799122"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Check 7799123",
+    "visibility_rules": [
+      "$mm7_pickups_visible|7799123"
+    ],
+    "map_locations": [
+      {
+        "map": "full4",
+        "x": 2250,
+        "y": 710,
+        "size": 58
+      }
+    ],
+    "sections": [
+      {
+        "name": "Junk Man - Large Health 1",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799123"
+        ]
+      },
+      {
+        "name": "Playtest: Thunder Bolt ladder route health capsule",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Check 7799124",
+    "visibility_rules": [
+      "$mm7_pickups_visible|7799124"
+    ],
+    "map_locations": [
+      {
+        "map": "full4",
+        "x": 2608,
+        "y": 1719,
+        "size": 54
+      }
+    ],
+    "sections": [
+      {
+        "name": "Junk Man - 1-Up",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799124"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Check 7799125",
+    "visibility_rules": [
+      "$mm7_pickups_visible|7799125"
+    ],
+    "map_locations": [
+      {
+        "map": "full4",
+        "x": 4048,
+        "y": 86,
+        "size": 54
+      }
+    ],
+    "sections": [
+      {
+        "name": "Junk Man - Large Weapon Energy",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799125"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Check 7799051",
+    "visibility_rules": [
+      "$seed_has|7799051"
+    ],
+    "map_locations": [
+      {
+        "map": "full9",
+        "x": 5260,
+        "y": 1660,
+        "size": 54
+      }
+    ],
+    "sections": [
+      {
+        "name": "Turbo Man Weapon Get",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799051"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Check 7799061",
+    "visibility_rules": [
+      "$seed_has|7799061"
+    ],
+    "map_locations": [
+      {
+        "map": "full9",
+        "x": 2448,
+        "y": 695,
+        "size": 54
+      }
+    ],
+    "sections": [
+      {
+        "name": "Proto Man's Clue 2 Location",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799061"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Check 7799078",
+    "visibility_rules": [
+      "$seed_has|7799078"
+    ],
+    "map_locations": [
+      {
+        "map": "full9",
+        "x": 2112,
+        "y": 895,
+        "size": 54
+      }
+    ],
+    "sections": [
+      {
+        "name": "Hyper Rocket Buster Location",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799078"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Check 7799087",
+    "visibility_rules": [
+      "$seed_has|7799087"
+    ],
+    "map_locations": [
+      {
+        "map": "full9",
+        "x": 2160,
+        "y": 451,
+        "size": 54
+      }
+    ],
+    "sections": [
+      {
+        "name": "Turbo Man's Mega Bolt Location",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799087"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Check 7799126",
+    "visibility_rules": [
+      "$mm7_pickups_visible|7799126"
+    ],
+    "map_locations": [
+      {
+        "map": "full9",
+        "x": 2096,
+        "y": 887,
+        "size": 54
+      }
+    ],
+    "sections": [
+      {
+        "name": "Turbo Man - Large Health 1",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799126"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Check 7799127",
+    "visibility_rules": [
+      "$mm7_pickups_visible|7799127"
+    ],
+    "map_locations": [
+      {
+        "map": "full9",
+        "x": 2992,
+        "y": 535,
+        "size": 54
+      }
+    ],
+    "sections": [
+      {
+        "name": "Turbo Man - 1-Up",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799127"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Check 7799128",
+    "visibility_rules": [
+      "$mm7_pickups_visible|7799128"
+    ],
+    "map_locations": [
+      {
+        "map": "full9",
+        "x": 2944,
+        "y": 951,
+        "size": 54
+      }
+    ],
+    "sections": [
+      {
+        "name": "Turbo Man - Large Health 2",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799128"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Check 7799129",
+    "visibility_rules": [
+      "$mm7_pickups_visible|7799129"
+    ],
+    "map_locations": [
+      {
+        "map": "full9",
+        "x": 3024,
+        "y": 1079,
+        "size": 54
+      }
+    ],
+    "sections": [
+      {
+        "name": "Turbo Man - E-Tank",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799129"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Check 7799052",
+    "visibility_rules": [
+      "$seed_has|7799052"
+    ],
+    "map_locations": [
+      {
+        "map": "full7",
+        "x": 6520,
+        "y": 375,
+        "size": 54
+      }
+    ],
+    "sections": [
+      {
+        "name": "Slash Man Weapon Get",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799052"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Check 7799080",
+    "visibility_rules": [
+      "$seed_has|7799080"
+    ],
+    "map_locations": [
+      {
+        "map": "full7",
+        "x": 5499,
+        "y": 83,
+        "size": 80
+      }
+    ],
+    "sections": [
+      {
+        "name": "Beat Location",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799080"
+        ]
+      },
+      {
+        "name": "Playtest 2026-10-03: Marker matched to the supplied screenshot on the whole-stage map and corresponding enlarged views.",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Check 7799114",
+    "visibility_rules": [
+      "$mm7_pickups_visible|7799114"
+    ],
+    "map_locations": [
+      {
+        "map": "full7",
+        "x": 1616,
+        "y": 1607,
+        "size": 54
+      }
+    ],
+    "sections": [
+      {
+        "name": "Slash Man - Large Health 1",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799114"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Check 7799115",
+    "visibility_rules": [
+      "$mm7_pickups_visible|7799115"
+    ],
+    "map_locations": [
+      {
+        "map": "full7",
+        "x": 3592,
+        "y": 1047,
+        "size": 54
+      }
+    ],
+    "sections": [
+      {
+        "name": "Slash Man - E-Tank",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799115"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Check 7799116",
+    "visibility_rules": [
+      "$mm7_pickups_visible|7799116"
+    ],
+    "map_locations": [
+      {
+        "map": "full7",
+        "x": 4336,
+        "y": 551,
+        "size": 54
+      }
+    ],
+    "sections": [
+      {
+        "name": "Slash Man - Large Health 2",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799116"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Check 7799053",
+    "visibility_rules": [
+      "$seed_has|7799053"
+    ],
+    "map_locations": [
+      {
+        "map": "full6",
+        "x": 4730,
+        "y": 1165,
+        "size": 54
+      }
+    ],
+    "sections": [
+      {
+        "name": "Shade Man Weapon Get",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799053"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Check 7799062",
+    "visibility_rules": [
+      "$seed_has|7799062"
+    ],
+    "map_locations": [
+      {
+        "map": "full6",
+        "x": 3050,
+        "y": 1195,
+        "size": 54
+      }
+    ],
+    "sections": [
+      {
+        "name": "Proto Shield Location",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799062"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Check 7799079",
+    "visibility_rules": [
+      "$seed_has|7799079"
+    ],
+    "map_locations": [
+      {
+        "map": "full6",
+        "x": 3584,
+        "y": 658,
+        "size": 54
+      }
+    ],
+    "sections": [
+      {
+        "name": "Energy Balancer Location",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799079"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Check 7799086",
+    "visibility_rules": [
+      "$seed_has|7799086"
+    ],
+    "map_locations": [
+      {
+        "map": "full6",
+        "x": 2652,
+        "y": 1173,
+        "size": 58
+      }
+    ],
+    "sections": [
+      {
+        "name": "Shade Man's Mega Bolt Location",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799086"
+        ]
+      },
+      {
+        "name": "Playtest: User screenshot: raised platform before the Proto Man passage",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Check 7799136",
+    "visibility_rules": [
+      "$mm7_pickups_visible|7799136"
+    ],
+    "map_locations": [
+      {
+        "map": "full6",
+        "x": 808,
+        "y": 1349,
+        "size": 54
+      }
+    ],
+    "sections": [
+      {
+        "name": "Shade Man - Large Bolt",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799136"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Check 7799137",
+    "visibility_rules": [
+      "$mm7_pickups_visible|7799137"
+    ],
+    "map_locations": [
+      {
+        "map": "full6",
+        "x": 2608,
+        "y": 1624,
+        "size": 58
+      }
+    ],
+    "sections": [
+      {
+        "name": "Shade Man - Large Health 1",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799137"
+        ]
+      },
+      {
+        "name": "Playtest 2026-10-03: Numbered check placement corrected from the latest playtest; AP identity retained.",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Check 7799138",
+    "visibility_rules": [
+      "$mm7_pickups_visible|7799138"
+    ],
+    "map_locations": [
+      {
+        "map": "full6",
+        "x": 2865,
+        "y": 1975,
+        "size": 58
+      }
+    ],
+    "sections": [
+      {
+        "name": "Shade Man - 1-Up 1",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799138"
+        ]
+      },
+      {
+        "name": "Playtest: Pumpkin core route 1-Up — room reference; exact pickup pixel unverified",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Check 7799139",
+    "visibility_rules": [
+      "$mm7_pickups_visible|7799139"
+    ],
+    "map_locations": [
+      {
+        "map": "full6",
+        "x": 2856,
+        "y": 858,
+        "size": 58
+      }
+    ],
+    "sections": [
+      {
+        "name": "Shade Man - Large Health 2",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799139"
+        ]
+      },
+      {
+        "name": "Playtest 2026-10-03: Numbered check placement corrected from the latest playtest; AP identity retained.",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Check 7799140",
+    "visibility_rules": [
+      "$mm7_pickups_visible|7799140"
+    ],
+    "map_locations": [
+      {
+        "map": "full6",
+        "x": 3257,
+        "y": 568,
+        "size": 58
+      }
+    ],
+    "sections": [
+      {
+        "name": "Shade Man - 1-Up 2",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799140"
+        ]
+      },
+      {
+        "name": "Playtest: Upper branch 1-Up; Rush Jet or Super Adapter",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Check 7799054",
+    "visibility_rules": [
+      "$seed_has|7799054"
+    ],
+    "map_locations": [
+      {
+        "map": "full1",
+        "x": 4740,
+        "y": 665,
+        "size": 54
+      }
+    ],
+    "sections": [
+      {
+        "name": "Burst Man Weapon Get",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799054"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Check 7799072",
+    "visibility_rules": [
+      "$seed_has|7799072"
+    ],
+    "map_locations": [
+      {
+        "map": "full1",
+        "x": 3528,
+        "y": 823,
+        "size": 54
+      }
+    ],
+    "sections": [
+      {
+        "name": "Rush R Plate Location",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799072"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Check 7799130",
+    "visibility_rules": [
+      "$mm7_pickups_visible|7799130"
+    ],
+    "map_locations": [
+      {
+        "map": "full1",
+        "x": 816,
+        "y": 295,
+        "size": 54
+      }
+    ],
+    "sections": [
+      {
+        "name": "Burst Man - 1-Up 1",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799130"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Check 7799131",
+    "visibility_rules": [
+      "$mm7_pickups_visible|7799131"
+    ],
+    "map_locations": [
+      {
+        "map": "full1",
+        "x": 968,
+        "y": 567,
+        "size": 54
+      }
+    ],
+    "sections": [
+      {
+        "name": "Burst Man - E-Tank",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799131"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Check 7799132",
+    "visibility_rules": [
+      "$mm7_pickups_visible|7799132"
+    ],
+    "map_locations": [
+      {
+        "map": "full1",
+        "x": 1336,
+        "y": 823,
+        "size": 54
+      }
+    ],
+    "sections": [
+      {
+        "name": "Burst Man - 1-Up 2",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799132"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Check 7799133",
+    "visibility_rules": [
+      "$mm7_pickups_visible|7799133"
+    ],
+    "map_locations": [
+      {
+        "map": "full1",
+        "x": 1480,
+        "y": 1159,
+        "size": 54
+      }
+    ],
+    "sections": [
+      {
+        "name": "Burst Man - Large Health 1",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799133"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Check 7799134",
+    "visibility_rules": [
+      "$mm7_pickups_visible|7799134"
+    ],
+    "map_locations": [
+      {
+        "map": "full1",
+        "x": 2212,
+        "y": 966,
+        "size": 54
+      }
+    ],
+    "sections": [
+      {
+        "name": "Burst Man - Large Weapon Energy",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799134"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Check 7799135",
+    "visibility_rules": [
+      "$mm7_pickups_visible|7799135"
+    ],
+    "map_locations": [
+      {
+        "map": "full1",
+        "x": 3808,
+        "y": 871,
+        "size": 54
+      }
+    ],
+    "sections": [
+      {
+        "name": "Burst Man - Large Health 2",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799135"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Check 7799055",
+    "visibility_rules": [
+      "$seed_has|7799055"
+    ],
+    "map_locations": [
+      {
+        "map": "full8",
+        "x": 4230,
+        "y": 407,
+        "size": 54
+      }
+    ],
+    "sections": [
+      {
+        "name": "Spring Man Weapon Get",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799055"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Check 7799076",
+    "visibility_rules": [
+      "$seed_has|7799076"
+    ],
+    "map_locations": [
+      {
+        "map": "full8",
+        "x": 2580,
+        "y": 600,
+        "size": 52
+      }
+    ],
+    "sections": [
+      {
+        "name": "Hyper Bolt Location",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799076"
+        ]
+      },
+      {
+        "name": "Playtest: Hidden Hyper Bolt room entrance: bouncing box opens the left wall",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Check 7799085",
+    "visibility_rules": [
+      "$seed_has|7799085"
+    ],
+    "map_locations": [
+      {
+        "map": "full8",
+        "x": 2695,
+        "y": 1138,
+        "size": 54
+      }
+    ],
+    "sections": [
+      {
+        "name": "Spring Man's Mega Bolt Location",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799085"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Check 7799089",
+    "visibility_rules": [
+      "$seed_has|7799089"
+    ],
+    "map_locations": [
+      {
+        "map": "full8",
+        "x": 2688,
+        "y": 1458,
+        "size": 54
+      }
+    ],
+    "sections": [
+      {
+        "name": "Mega Health Capsule Location",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799089"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Check 7799104",
+    "visibility_rules": [
+      "$mm7_pickups_visible|7799104"
+    ],
+    "map_locations": [
+      {
+        "map": "full8",
+        "x": 48,
+        "y": 85,
+        "size": 54
+      }
+    ],
+    "sections": [
+      {
+        "name": "Spring Man - Large Bolt",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799104"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Check 7799105",
+    "visibility_rules": [
+      "$mm7_pickups_visible|7799105"
+    ],
+    "map_locations": [
+      {
+        "map": "full8",
+        "x": 1231,
+        "y": 327,
+        "size": 54
+      }
+    ],
+    "sections": [
+      {
+        "name": "Spring Man - Large Health 1",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799105"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Check 7799106",
+    "visibility_rules": [
+      "$mm7_pickups_visible|7799106"
+    ],
+    "map_locations": [
+      {
+        "map": "full8",
+        "x": 1103,
+        "y": 823,
+        "size": 54
+      }
+    ],
+    "sections": [
+      {
+        "name": "Spring Man - 1-Up 1",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799106"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Check 7799107",
+    "visibility_rules": [
+      "$mm7_pickups_visible|7799107"
+    ],
+    "map_locations": [
+      {
+        "map": "full8",
+        "x": 1814,
+        "y": 1312,
+        "size": 52
+      }
+    ],
+    "sections": [
+      {
+        "name": "Spring Man - Large Weapon Energy",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799107"
+        ]
+      },
+      {
+        "name": "Playtest 2026-10-03: Marker matched to the supplied screenshot on the whole-stage map and corresponding enlarged views.",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Check 7799108",
+    "visibility_rules": [
+      "$mm7_pickups_visible|7799108"
+    ],
+    "map_locations": [
+      {
+        "map": "full8",
+        "x": 2975,
+        "y": 551,
+        "size": 54
+      }
+    ],
+    "sections": [
+      {
+        "name": "Spring Man - 1-Up 2",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799108"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Check 7799109",
+    "visibility_rules": [
+      "$mm7_pickups_visible|7799109"
+    ],
+    "map_locations": [
+      {
+        "map": "full8",
+        "x": 3311,
+        "y": 599,
+        "size": 54
+      }
+    ],
+    "sections": [
+      {
+        "name": "Spring Man - E-Tank",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799109"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Check 7799110",
+    "visibility_rules": [
+      "$mm7_pickups_visible|7799110"
+    ],
+    "map_locations": [
+      {
+        "map": "full8",
+        "x": 3543,
+        "y": 1463,
+        "size": 54
+      }
+    ],
+    "sections": [
+      {
+        "name": "Spring Man - Large Health 2",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799110"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Check 7799056",
+    "visibility_rules": [
+      "$seed_has|7799056"
+    ],
+    "map_locations": [
+      {
+        "map": "full5",
+        "x": 1430,
+        "y": 150,
+        "size": 54
+      }
+    ],
+    "sections": [
+      {
+        "name": "Mash Defeated",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799056"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Check 7799090",
+    "visibility_rules": [
+      "$seed_has|7799090"
+    ],
+    "map_locations": [
+      {
+        "map": "full10",
+        "x": 5520,
+        "y": 161,
+        "size": 68
+      }
+    ],
+    "sections": [
+      {
+        "name": "Guts Man G Reward",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799090"
+        ]
+      },
+      {
+        "name": "Playtest: Guts Man G boss arena",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Check 7799141",
+    "visibility_rules": [
+      "$mm7_pickups_visible|7799141"
+    ],
+    "map_locations": [
+      {
+        "map": "full10",
+        "x": 880,
+        "y": 581,
+        "size": 54
+      }
+    ],
+    "sections": [
+      {
+        "name": "Wily 1 - Large Bolt",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799141"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Check 7799142",
+    "visibility_rules": [
+      "$mm7_pickups_visible|7799142"
+    ],
+    "map_locations": [
+      {
+        "map": "full10",
+        "x": 2096,
+        "y": 326,
+        "size": 54
+      }
+    ],
+    "sections": [
+      {
+        "name": "Wily 1 - Large Weapon Energy",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799142"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Check 7799143",
+    "visibility_rules": [
+      "$mm7_pickups_visible|7799143"
+    ],
+    "map_locations": [
+      {
+        "map": "full10",
+        "x": 2928,
+        "y": 343,
+        "size": 54
+      }
+    ],
+    "sections": [
+      {
+        "name": "Wily 1 - 1-Up",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799143"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Check 7799144",
+    "visibility_rules": [
+      "$mm7_pickups_visible|7799144"
+    ],
+    "map_locations": [
+      {
+        "map": "full10",
+        "x": 2890,
+        "y": 439,
+        "size": 54
+      }
+    ],
+    "sections": [
+      {
+        "name": "Wily 1 - Large Health 1",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799144"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Check 7799145",
+    "visibility_rules": [
+      "$mm7_pickups_visible|7799145"
+    ],
+    "map_locations": [
+      {
+        "map": "full10",
+        "x": 3968,
+        "y": 903,
+        "size": 54
+      }
+    ],
+    "sections": [
+      {
+        "name": "Wily 1 - Large Health 2",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799145"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Check 7799146",
+    "visibility_rules": [
+      "$mm7_pickups_visible|7799146"
+    ],
+    "map_locations": [
+      {
+        "map": "full10",
+        "x": 4032,
+        "y": 87,
+        "size": 54
+      }
+    ],
+    "sections": [
+      {
+        "name": "Wily 1 - E-Tank",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799146"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Check 7799091",
+    "visibility_rules": [
+      "$seed_has|7799091"
+    ],
+    "map_locations": [
+      {
+        "map": "full11",
+        "x": 2960,
+        "y": 125,
+        "size": 54
+      }
+    ],
+    "sections": [
+      {
+        "name": "Gamerizer Reward",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799091"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Check 7799147",
+    "visibility_rules": [
+      "$mm7_pickups_visible|7799147"
+    ],
+    "map_locations": [
+      {
+        "map": "full11",
+        "x": 280,
+        "y": 3173,
+        "size": 54
+      }
+    ],
+    "sections": [
+      {
+        "name": "Wily 2 - Large Bolt",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799147"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Check 7799148",
+    "visibility_rules": [
+      "$mm7_pickups_visible|7799148"
+    ],
+    "map_locations": [
+      {
+        "map": "full11",
+        "x": 976,
+        "y": 3015,
+        "size": 54
+      }
+    ],
+    "sections": [
+      {
+        "name": "Wily 2 - Large Health 1",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799148"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Check 7799149",
+    "visibility_rules": [
+      "$mm7_pickups_visible|7799149"
+    ],
+    "map_locations": [
+      {
+        "map": "full11",
+        "x": 976,
+        "y": 2503,
+        "size": 54
+      }
+    ],
+    "sections": [
+      {
+        "name": "Wily 2 - 1-Up",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799149"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Check 7799150",
+    "visibility_rules": [
+      "$mm7_pickups_visible|7799150"
+    ],
+    "map_locations": [
+      {
+        "map": "full11",
+        "x": 1240,
+        "y": 2103,
+        "size": 54
+      }
+    ],
+    "sections": [
+      {
+        "name": "Wily 2 - Large Health 2",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799150"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Check 7799151",
+    "visibility_rules": [
+      "$mm7_pickups_visible|7799151"
+    ],
+    "map_locations": [
+      {
+        "map": "full11",
+        "x": 1888,
+        "y": 1355,
+        "size": 14
+      }
+    ],
+    "sections": [
+      {
+        "name": "Wily 2 - Small Health 1",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799151"
+        ]
+      },
+      {
+        "name": "Position corrected from the supplied 2026-10-04 playtest screenshot: three life pickups on the platform.",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Check 7799152",
+    "visibility_rules": [
+      "$mm7_pickups_visible|7799152"
+    ],
+    "map_locations": [
+      {
+        "map": "full11",
+        "x": 1904,
+        "y": 1355,
+        "size": 14
+      }
+    ],
+    "sections": [
+      {
+        "name": "Wily 2 - Small Health 2",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799152"
+        ]
+      },
+      {
+        "name": "Position corrected from the supplied 2026-10-04 playtest screenshot: three life pickups on the platform.",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Check 7799153",
+    "visibility_rules": [
+      "$mm7_pickups_visible|7799153"
+    ],
+    "map_locations": [
+      {
+        "map": "full11",
+        "x": 1920,
+        "y": 1355,
+        "size": 14
+      }
+    ],
+    "sections": [
+      {
+        "name": "Wily 2 - Small Health 3",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799153"
+        ]
+      },
+      {
+        "name": "Position corrected from the supplied 2026-10-04 playtest screenshot: three life pickups on the platform.",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Check 7799154",
+    "visibility_rules": [
+      "$mm7_pickups_visible|7799154"
+    ],
+    "map_locations": [
+      {
+        "map": "full11",
+        "x": 2272,
+        "y": 855,
+        "size": 54
+      }
+    ],
+    "sections": [
+      {
+        "name": "Wily 2 - Large Health 3",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799154"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Check 7799155",
+    "visibility_rules": [
+      "$mm7_pickups_visible|7799155"
+    ],
+    "map_locations": [
+      {
+        "map": "full11",
+        "x": 2504,
+        "y": 310,
+        "size": 54
+      }
+    ],
+    "sections": [
+      {
+        "name": "Wily 2 - Large Weapon Energy",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799155"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Check 7799156",
+    "visibility_rules": [
+      "$mm7_pickups_visible|7799156"
+    ],
+    "map_locations": [
+      {
+        "map": "full11",
+        "x": 2528,
+        "y": 311,
+        "size": 54
+      }
+    ],
+    "sections": [
+      {
+        "name": "Wily 2 - Large Health 4",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799156"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Check 7799092",
+    "visibility_rules": [
+      "$seed_has|7799092"
+    ],
+    "map_locations": [
+      {
+        "map": "full12",
+        "x": 3848,
+        "y": 611,
+        "size": 52
+      }
+    ],
+    "sections": [
+      {
+        "name": "HannyaNED^2 Reward",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799092"
+        ]
+      },
+      {
+        "name": "Playtest 2026-10-03: Marker matched to the supplied screenshot on the whole-stage map and corresponding enlarged views.",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Check 7799157",
+    "visibility_rules": [
+      "$mm7_pickups_visible|7799157"
+    ],
+    "map_locations": [
+      {
+        "map": "full12",
+        "x": 208,
+        "y": 2421,
+        "size": 54
+      }
+    ],
+    "sections": [
+      {
+        "name": "Wily 3 - Large Bolt 1",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799157"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Check 7799158",
+    "visibility_rules": [
+      "$mm7_pickups_visible|7799158"
+    ],
+    "map_locations": [
+      {
+        "map": "full12",
+        "x": 216,
+        "y": 2165,
+        "size": 54
+      }
+    ],
+    "sections": [
+      {
+        "name": "Wily 3 - Large Bolt 2",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799158"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Check 7799159",
+    "visibility_rules": [
+      "$mm7_pickups_visible|7799159"
+    ],
+    "map_locations": [
+      {
+        "map": "full12",
+        "x": 352,
+        "y": 1831,
+        "size": 54
+      }
+    ],
+    "sections": [
+      {
+        "name": "Wily 3 - Large Health 1",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799159"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Check 7799160",
+    "visibility_rules": [
+      "$mm7_pickups_visible|7799160"
+    ],
+    "map_locations": [
+      {
+        "map": "full12",
+        "x": 960,
+        "y": 1383,
+        "size": 54
+      }
+    ],
+    "sections": [
+      {
+        "name": "Wily 3 - 1-Up 1",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799160"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Check 7799161",
+    "visibility_rules": [
+      "$mm7_pickups_visible|7799161"
+    ],
+    "map_locations": [
+      {
+        "map": "full12",
+        "x": 1456,
+        "y": 567,
+        "size": 54
+      }
+    ],
+    "sections": [
+      {
+        "name": "Wily 3 - 1-Up 2",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799161"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Check 7799162",
+    "visibility_rules": [
+      "$mm7_pickups_visible|7799162"
+    ],
+    "map_locations": [
+      {
+        "map": "full12",
+        "x": 2736,
+        "y": 55,
+        "size": 54
+      }
+    ],
+    "sections": [
+      {
+        "name": "Wily 3 - E-Tank 1",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799162"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Check 7799163",
+    "visibility_rules": [
+      "$mm7_pickups_visible|7799163"
+    ],
+    "map_locations": [
+      {
+        "map": "full12",
+        "x": 2760,
+        "y": 55,
+        "size": 54
+      }
+    ],
+    "sections": [
+      {
+        "name": "Wily 3 - S-Tank",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799163"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Check 7799164",
+    "visibility_rules": [
+      "$mm7_pickups_visible|7799164"
+    ],
+    "map_locations": [
+      {
+        "map": "full12",
+        "x": 2784,
+        "y": 55,
+        "size": 54
+      }
+    ],
+    "sections": [
+      {
+        "name": "Wily 3 - W-Tank",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799164"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Check 7799165",
+    "visibility_rules": [
+      "$mm7_pickups_visible|7799165"
+    ],
+    "map_locations": [
+      {
+        "map": "full12",
+        "x": 2096,
+        "y": 1575,
+        "size": 54
+      }
+    ],
+    "sections": [
+      {
+        "name": "Wily 3 - 1-Up 3",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799165"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Check 7799166",
+    "visibility_rules": [
+      "$mm7_pickups_visible|7799166"
+    ],
+    "map_locations": [
+      {
+        "map": "full12",
+        "x": 2768,
+        "y": 919,
+        "size": 54
+      }
+    ],
+    "sections": [
+      {
+        "name": "Wily 3 - Large Health 2",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799166"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Check 7799167",
+    "visibility_rules": [
+      "$mm7_pickups_visible|7799167"
+    ],
+    "map_locations": [
+      {
+        "map": "full12",
+        "x": 2896,
+        "y": 599,
+        "size": 54
+      }
+    ],
+    "sections": [
+      {
+        "name": "Wily 3 - E-Tank 2",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799167"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Check 7799081",
+    "visibility_rules": [
+      "$seed_has|7799081"
+    ],
+    "map_locations": [
+      {
+        "map": "full0",
+        "x": 2850,
+        "y": 150,
+        "size": 54
+      }
+    ],
+    "sections": [
+      {
+        "name": "Intro Stage Cleared",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799081"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Check 7799093",
+    "visibility_rules": [
+      "$mm7_rematch_visible|7799093"
+    ],
+    "map_locations": [
+      {
+        "map": "full13",
+        "x": 392,
+        "y": 98,
+        "size": 36
+      }
+    ],
+    "sections": [
+      {
+        "name": "Boss Rush - Freeze Man",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799093"
+        ]
+      },
+      {
+        "name": "Playtest 2026-10-03: Marker matched to the supplied screenshot on the whole-stage map and corresponding enlarged views.",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Check 7799094",
+    "visibility_rules": [
+      "$mm7_rematch_visible|7799094"
+    ],
+    "map_locations": [
+      {
+        "map": "full13",
+        "x": 572,
+        "y": 102,
+        "size": 36
+      }
+    ],
+    "sections": [
+      {
+        "name": "Boss Rush - Slash Man",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799094"
+        ]
+      },
+      {
+        "name": "Playtest 2026-10-03: Marker matched to the supplied screenshot on the whole-stage map and corresponding enlarged views.",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Check 7799095",
+    "visibility_rules": [
+      "$mm7_rematch_visible|7799095"
+    ],
+    "map_locations": [
+      {
+        "map": "full13",
+        "x": 394,
+        "y": 215,
+        "size": 36
+      }
+    ],
+    "sections": [
+      {
+        "name": "Boss Rush - Junk Man",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799095"
+        ]
+      },
+      {
+        "name": "Playtest 2026-10-03: Marker matched to the supplied screenshot on the whole-stage map and corresponding enlarged views.",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Check 7799096",
+    "visibility_rules": [
+      "$mm7_rematch_visible|7799096"
+    ],
+    "map_locations": [
+      {
+        "map": "full13",
+        "x": 568,
+        "y": 210,
+        "size": 36
+      }
+    ],
+    "sections": [
+      {
+        "name": "Boss Rush - Cloud Man",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799096"
+        ]
+      },
+      {
+        "name": "Playtest 2026-10-03: Marker matched to the supplied screenshot on the whole-stage map and corresponding enlarged views.",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Check 7799097",
+    "visibility_rules": [
+      "$mm7_rematch_visible|7799097"
+    ],
+    "map_locations": [
+      {
+        "map": "full13",
+        "x": 397,
+        "y": 358,
+        "size": 36
+      }
+    ],
+    "sections": [
+      {
+        "name": "Boss Rush - Turbo Man",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799097"
+        ]
+      },
+      {
+        "name": "Playtest 2026-10-03: Marker matched to the supplied screenshot on the whole-stage map and corresponding enlarged views.",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Check 7799098",
+    "visibility_rules": [
+      "$mm7_rematch_visible|7799098"
+    ],
+    "map_locations": [
+      {
+        "map": "full13",
+        "x": 572,
+        "y": 358,
+        "size": 36
+      }
+    ],
+    "sections": [
+      {
+        "name": "Boss Rush - Spring Man",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799098"
+        ]
+      },
+      {
+        "name": "Playtest 2026-10-03: Marker matched to the supplied screenshot on the whole-stage map and corresponding enlarged views.",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Check 7799099",
+    "visibility_rules": [
+      "$mm7_rematch_visible|7799099"
+    ],
+    "map_locations": [
+      {
+        "map": "full13",
+        "x": 393,
+        "y": 467,
+        "size": 36
+      }
+    ],
+    "sections": [
+      {
+        "name": "Boss Rush - Shade Man",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799099"
+        ]
+      },
+      {
+        "name": "Playtest 2026-10-03: Marker matched to the supplied screenshot on the whole-stage map and corresponding enlarged views.",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Check 7799100",
+    "visibility_rules": [
+      "$mm7_rematch_visible|7799100"
+    ],
+    "map_locations": [
+      {
+        "map": "full13",
+        "x": 572,
+        "y": 464,
+        "size": 36
+      }
+    ],
+    "sections": [
+      {
+        "name": "Boss Rush - Burst Man",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799100"
+        ]
+      },
+      {
+        "name": "Playtest 2026-10-03: Marker matched to the supplied screenshot on the whole-stage map and corresponding enlarged views.",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Check 7799168",
+    "visibility_rules": [
+      "$mm7_pickups_visible|7799168"
+    ],
+    "map_locations": [
+      {
+        "map": "full13",
+        "x": 176,
+        "y": 343,
+        "size": 18
+      }
+    ],
+    "sections": [
+      {
+        "name": "Wily 4 - Large Bolt 1",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799168"
+        ]
+      },
+      {
+        "name": "Playtest 2026-10-03: Marker matched to the supplied screenshot on the whole-stage map and corresponding enlarged views.",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Check 7799169",
+    "visibility_rules": [
+      "$mm7_pickups_visible|7799169"
+    ],
+    "map_locations": [
+      {
+        "map": "full13",
+        "x": 200,
+        "y": 343,
+        "size": 18
+      }
+    ],
+    "sections": [
+      {
+        "name": "Wily 4 - Large Bolt 2",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799169"
+        ]
+      },
+      {
+        "name": "Playtest 2026-10-03: Marker matched to the supplied screenshot on the whole-stage map and corresponding enlarged views.",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Check 7799170",
+    "visibility_rules": [
+      "$mm7_pickups_visible|7799170"
+    ],
+    "map_locations": [
+      {
+        "map": "full13",
+        "x": 224,
+        "y": 343,
+        "size": 18
+      }
+    ],
+    "sections": [
+      {
+        "name": "Wily 4 - Large Bolt 3",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799170"
+        ]
+      },
+      {
+        "name": "Playtest 2026-10-03: Marker matched to the supplied screenshot on the whole-stage map and corresponding enlarged views.",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Check 7799171",
+    "visibility_rules": [
+      "$mm7_pickups_visible|7799171"
+    ],
+    "map_locations": [
+      {
+        "map": "full13",
+        "x": 48,
+        "y": 343,
+        "size": 18
+      }
+    ],
+    "sections": [
+      {
+        "name": "Wily 4 - W-Tank",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799171"
+        ]
+      },
+      {
+        "name": "Playtest 2026-10-03: Marker matched to the supplied screenshot on the whole-stage map and corresponding enlarged views.",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Check 7799172",
+    "visibility_rules": [
+      "$mm7_pickups_visible|7799172"
+    ],
+    "map_locations": [
+      {
+        "map": "full13",
+        "x": 208,
+        "y": 439,
+        "size": 18
+      }
+    ],
+    "sections": [
+      {
+        "name": "Wily 4 - 1-Up",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799172"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Check 7799173",
+    "visibility_rules": [
+      "$mm7_pickups_visible|7799173"
+    ],
+    "map_locations": [
+      {
+        "map": "full13",
+        "x": 80,
+        "y": 439,
+        "size": 18
+      }
+    ],
+    "sections": [
+      {
+        "name": "Wily 4 - Large Bolt 4",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799173"
+        ]
+      },
+      {
+        "name": "Playtest 2026-10-03: Numbered check placement corrected from the latest playtest; AP identity retained.",
+        "item_count": 0
+      }
+    ]
+  },
+  {
+    "name": "Check 7799174",
+    "visibility_rules": [
+      "$mm7_pickups_visible|7799174"
+    ],
+    "map_locations": [
+      {
+        "map": "full13",
+        "x": 56,
+        "y": 439,
+        "size": 18
+      }
+    ],
+    "sections": [
+      {
+        "name": "Wily 4 - Large Bolt 5",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799174"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Check 7799175",
+    "visibility_rules": [
+      "$mm7_pickups_visible|7799175"
+    ],
+    "map_locations": [
+      {
+        "map": "full13",
+        "x": 32,
+        "y": 439,
+        "size": 18
+      }
+    ],
+    "sections": [
+      {
+        "name": "Wily 4 - Large Bolt 6",
+        "item_count": 1,
+        "access_rules": [
+          "$mm7_access|7799175"
+        ]
+      },
+      {
+        "name": "Playtest 2026-10-03: Numbered check placement corrected from the latest playtest; AP identity retained.",
+        "item_count": 0
+      }
+    ]
+  }
+]

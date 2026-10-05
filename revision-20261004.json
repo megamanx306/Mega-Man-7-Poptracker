@@ -1,0 +1,6 @@
+{
+  "version": "0.8.9",
+  "changes": "Corrected all eight final-castle refill-room markers from the supplied screenshot, including the upper row vertical offset. Added an enlarged Refill room view.",
+  "inventory_item_size": "64,60",
+  "validation": "JSON, image references, unique AP check IDs and marker bounds verified. Live PopTracker validation unavailable."
+}
